@@ -1240,7 +1240,7 @@ module.exports = require("./main.js");
  */
 
 //implementation
-var Converter = require("../../core/Converter.js");
+var Converter = require("./../core/Converter.js");
 function _initConverter(){
     var csvConverter = new Converter();
     var started = false;
@@ -1278,14 +1278,14 @@ function convertString(csvString){
 module.exports.convertFile = convertFile;
 module.exports.convertString = convertString;
 }).call(this,require('_process'))
-},{"../../core/Converter.js":3,"_process":36}],21:[function(require,module,exports){
+},{"./../core/Converter.js":3,"_process":36}],21:[function(require,module,exports){
 module.exports.web=require("./web");
 module.exports.cli=require("./cli");
 },{"./cli":19,"./web":22}],22:[function(require,module,exports){
 module.exports = require("./webServer.js");
 },{"./webServer.js":23}],23:[function(require,module,exports){
 var http = require("http");
-var Converter = require("../../core/Converter.js");
+var Converter = require("./../core/Converter.js");
 function startWebServer (args) {
     args = args || {};
     var serverArgs = {
@@ -1308,7 +1308,7 @@ function startWebServer (args) {
 }
 module.exports.startWebServer = startWebServer;
 
-},{"../../core/Converter.js":3,"http":55}],24:[function(require,module,exports){
+},{"./../core/Converter.js":3,"http":55}],24:[function(require,module,exports){
 (function (process,global){
 /*!
  * async
@@ -7421,8 +7421,8 @@ function objectToString(o) {
   return Object.prototype.toString.call(o);
 }
 
-}).call(this,{"isBuffer":require("../../../../insert-module-globals/node_modules/is-buffer/index.js")})
-},{"../../../../insert-module-globals/node_modules/is-buffer/index.js":33}],48:[function(require,module,exports){
+}).call(this,{"isBuffer":require("./.././../insert-module-globals/node_modules/is-buffer/index.js")})
+},{"./.././../insert-module-globals/node_modules/is-buffer/index.js":33}],48:[function(require,module,exports){
 (function (process){
 'use strict';
 
