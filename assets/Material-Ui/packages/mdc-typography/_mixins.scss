@@ -18,7 +18,5 @@
 // LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
-//
-
-/// @deprecated Import '_typography.scss' instead.
+/ @deprecated Import '_typography.scss' instead.
 @forward './typography' show core-styles, base, typography, smooth-font, overflow-ellipsis, baseline, text-baseline, baseline-top, baseline-bottom, zero-width-prefix, baseline-strut_;

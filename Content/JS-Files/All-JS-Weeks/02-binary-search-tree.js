@@ -393,7 +393,7 @@ console.log(
     "------------------------------------(26)-------------------------------"
 );
 /*
-   ~ final : (master) node 02-binary-search-tree.js 
+   ~ final : (master) node 02-binary-search-tree.js
 --------------------------------(1)-----------------------------------
 binarySearchTree:  BinarySearchTree { root: Node { data: 5, left: null, right: null } }
 --------------------------------(2)-----------------------------------

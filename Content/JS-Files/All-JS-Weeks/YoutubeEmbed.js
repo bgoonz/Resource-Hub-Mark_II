@@ -15,10 +15,9 @@ const YoutubeEmbed = ( {
     frameBorder = "0"
     allow = "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowFullScreen >
-    <
-    /iframe> < /
-    div >
+    < /iframe></
+div >
   )
 }
-
-export default YoutubeEmbed
+export default YoutubeEmbed;
+export default YoutubeEmbed;

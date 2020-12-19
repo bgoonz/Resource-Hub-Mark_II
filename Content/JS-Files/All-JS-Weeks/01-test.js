@@ -10,7 +10,7 @@ const { numRegions } = require('../problems/num_regions');
 describe('GraphNode Algorithms', () => {
     describe('breadthFirstSearch(startingNode, targetVal)', () => {
         // it should accept a starting GraphNode and a targetVal as args
-    
+
         context('when the targetVal is not contained in the full graph', () => {
             it ('should return null', () => {
                 let a = new GraphNode('a');
@@ -20,7 +20,7 @@ describe('GraphNode Algorithms', () => {
                 expect(breadthFirstSearch(a, 'x')).to.equal(null);
             });
         });
-    
+
         context('when the targetVal is contained in the full graph', () => {
             it ('should return the GraphNode that has the targetVal', () => {
                 let a = new GraphNode('a');
@@ -31,7 +31,7 @@ describe('GraphNode Algorithms', () => {
                 expect(breadthFirstSearch(a, 'a')).to.equal(a);
             });
         });
-    
+
         context('when the graph contains duplicate instances of targetVal', () => {
             it ('should return the first GraphNode that contains the targetVal according to left-to-right Breadth-First order', () => {
                 let a = new GraphNode('a');
@@ -41,7 +41,7 @@ describe('GraphNode Algorithms', () => {
                 a.neighbors = [b, c1];
                 b.neighbors = [c2];
                 expect(breadthFirstSearch(a, 'c')).to.equal(c1);
-    
+
                 let x = new GraphNode('x');
                 let y1 = new GraphNode('y');
                 let y2 = new GraphNode('y');
@@ -49,7 +49,7 @@ describe('GraphNode Algorithms', () => {
                 expect(breadthFirstSearch(x, 'y')).to.equal(y1);
             });
         });
-    
+
         context ('when the graph has a cycle', () => {
             it ('should not get trapped in an infinite loop', () => {
                 let s = new GraphNode('s');
@@ -57,7 +57,7 @@ describe('GraphNode Algorithms', () => {
                 s.neighbors = [t];
                 t.neighbors = [s];
                 expect(breadthFirstSearch(s, 'q')).to.equal(null);
-    
+
                 let u = new GraphNode('u');
                 let v = new GraphNode('v');
                 let w = new GraphNode('w');

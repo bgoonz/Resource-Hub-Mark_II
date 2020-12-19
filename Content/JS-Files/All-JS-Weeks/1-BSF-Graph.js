@@ -77,10 +77,10 @@ console.log(
 );
 
 /*
-   ~ javascript : (master) node 1-BSF-Graph.js 
+   ~ javascript : (master) node 1-BSF-Graph.js
 Set { 'joe', 'selam', 'derek', 'dean', 'evan', 'jesse' }
 functionbfsNumFriends("joe", "jesse", adjacencyList):  5
- ~ javascript : (master) 
+ ~ javascript : (master)
 */
 
 //-------------------------------------------------------------------------------------------

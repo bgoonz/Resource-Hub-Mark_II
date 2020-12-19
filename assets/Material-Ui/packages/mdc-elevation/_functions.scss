@@ -18,7 +18,5 @@
 // LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
-//
-
-/// @deprecated Import '_elevation-theme.scss' instead.
+/ @deprecated Import '_elevation-theme.scss' instead.
 @forward './elevation-theme' show transition-value, overlay-transition-value, elevation-box-shadow;

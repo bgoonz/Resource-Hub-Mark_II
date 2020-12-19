@@ -20,7 +20,7 @@ if ( !document ) {
  *    object.
  *
  *    {
- *      message: "success", 
+ *      message: "success",
  *      iss_position: {
  *        latitude: "33.0036",
  *        longitude: "72.2221"

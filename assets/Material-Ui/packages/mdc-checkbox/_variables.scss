@@ -18,8 +18,6 @@
 // LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
-//
-
-/// @deprecated Import '_checkbox.scss' or '_checkbox-theme.scss' instead.
+/ @deprecated Import '_checkbox.scss' or '_checkbox-theme.scss' instead.
 @forward './checkbox' show $mark-path-length_, $indeterminate-checked-easing-function_;
 @forward './checkbox-theme' show $baseline-theme-color, $mark-color, $border-color, $disabled-color, $ripple-size, $icon-size, $mark-stroke-size, $border-width, $transition-duration, $item-spacing, $focus-indicator-opacity, $minimum-size, $maximum-size, $density-scale, $density-config;

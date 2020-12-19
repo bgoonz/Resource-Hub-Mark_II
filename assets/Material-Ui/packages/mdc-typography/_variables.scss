@@ -18,7 +18,5 @@
 // LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
-//
-
-/// @deprecated Import '_typography.scss' instead.
+/ @deprecated Import '_typography.scss' instead.
 @forward './typography' show $font-family, $styles-headline1, $styles-headline2, $styles-headline3, $styles-headline4, $styles-headline5, $styles-headline6, $styles-subtitle1, $styles-subtitle2, $styles-body1, $styles-body2, $styles-caption, $styles-button, $styles-overline, $base, $font-weight-values, $styles;

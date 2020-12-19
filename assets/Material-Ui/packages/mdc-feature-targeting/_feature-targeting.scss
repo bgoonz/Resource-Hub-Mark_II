@@ -100,9 +100,7 @@ $all-query-operators: (any, all, without);
 
 //
 // Package-internal
-//
-
-// Verifies that the given feature targets are valid, throws an error otherwise.
+ Verifies that the given feature targets are valid, throws an error otherwise.
 @function verify-target_($feature-targets...) {
   @each $target in $feature-targets {
     @if meta.type-of($target) != map {
@@ -158,9 +156,7 @@ $all-query-operators: (any, all, without);
 
 //
 // Private
-//
-
-// Verifies that the given feature(s) are valid, throws an error otherwise.
+ Verifies that the given feature(s) are valid, throws an error otherwise.
 @function verify-feature_($features...) {
   @each $feature in $features {
     @if not list-contains_($all-features, $feature) {

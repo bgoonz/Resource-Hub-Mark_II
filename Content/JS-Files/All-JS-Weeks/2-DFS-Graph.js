@@ -1,6 +1,6 @@
 /*
   Problem 2: Depth First Search on a Graph
-  
+
 Given the adjacency list below,
 
 which friends would Joe visit if he were,

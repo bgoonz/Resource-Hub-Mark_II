@@ -18,7 +18,5 @@
 // LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
-//
-
-/// @deprecated Import '_color.scss' Sass module instead.
+/ @deprecated Import '_color.scss' Sass module instead.
 @forward './theme-color' show $primary, $on-primary, $accent, $secondary, $on-secondary, $background, $surface, $on-surface, $error, $on-error, $text-colors, $text-emphasis, ink-color-for-fill_, $property-values, prop-value, prop-value, accessible-ink-color, is-valid-theme-prop-value_, text-emphasis;

@@ -32,7 +32,7 @@ class BST {
             // [] otherwise then recurse and call pass in currentNode.right
     insert(val, currentNode=this.root) {
         // [] Check if the root exists
-        if (!this.root) {  
+        if (!this.root) {
             // [] if it does not, then set the root to be a new TreeNode with the value
             this.root = new TreeNode(val);
             return

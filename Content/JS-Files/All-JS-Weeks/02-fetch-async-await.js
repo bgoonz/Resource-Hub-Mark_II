@@ -8,19 +8,19 @@ assessment! 🧘🏼‍♀️
 Documentation link for `node-fetch`:
 https://www.npmjs.com/package/node-fetch
 
-ZenQuotesAPI is a simple API that does not require an API key, but will limit 
-you requests to per second.  The following link will return a random quote along 
-with it author  "https://zenquotes.io/api/random".  
+ZenQuotesAPI is a simple API that does not require an API key, but will limit
+you requests to per second.  The following link will return a random quote along
+with it author  "https://zenquotes.io/api/random".
 
 The Documentation link for ZenQuotesAPI:
 https://zenquotes.io/
 
-2. Write a function named `gettingAsyncQuote` that will accept one parameter, which will 
+2. Write a function named `gettingAsyncQuote` that will accept one parameter, which will
 be the `url` of the API endpoint you want to request data from.  The `gettingAsyncQuote`
-function should fetch the url parameter, convert the response from JSON to an 
+function should fetch the url parameter, convert the response from JSON to an
 object, and then console log the quote and author in seperate lines.
-YOU NEED TO ACCOMPLISH THIS 
-USING `ASYNC` AND `AWAIT` (YOU CAN NOT USE `.THEN`).    
+YOU NEED TO ACCOMPLISH THIS
+USING `ASYNC` AND `AWAIT` (YOU CAN NOT USE `.THEN`).
 
 HINT:  Test out what your response would be from the API and that will help you
 figure out how to correctly destructure the object into the output requested.
@@ -35,10 +35,10 @@ gettingAsyncQuote("https://zenquotes.io/api/random");
 
 // Should print...
 //
-//  Be not glad at the misfortune of another, though he may be your enemy. 
-//  - George Washington 
+//  Be not glad at the misfortune of another, though he may be your enemy.
+//  - George Washington
 //
-NOTE:  You will not get the same quote, you are getting random quotes, but 
+NOTE:  You will not get the same quote, you are getting random quotes, but
 it should be formatted the same as above.
 
 *************** YOUR CODE BELOW ***************************************/
@@ -53,7 +53,7 @@ it should be formatted the same as above.
   // define an async function that accepts a url as an argument
   // store await fetch in variable
   // define new variable
-    // call await json() on the previous awaited value return 
+    // call await json() on the previous awaited value return
   // console.log the quote and author on separate
 // [] Execute
 // import fetch
@@ -64,7 +64,7 @@ async function gettingAsyncQuote(url) {
   // store await fetch in variable
   const result = await fetch(url);
   // define new variable
-    // call await json() on the previous awaited value return 
+    // call await json() on the previous awaited value return
   const converted = await result.json();
   // console.log the quote and author on separate
   console.log(converted[0].q)

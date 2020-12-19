@@ -18,7 +18,5 @@
 // LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
-//
-
-/// @deprecated Import '_ripple-theme.scss' instead.
+/ @deprecated Import '_ripple-theme.scss' instead.
 @forward './ripple-theme' show $fade-in-duration, $fade-out-duration, $translate-duration, $states-wash-duration, $dark-ink-opacities, $light-ink-opacities, $pressed-dark-ink-opacity, $pressed-light-ink-opacity;

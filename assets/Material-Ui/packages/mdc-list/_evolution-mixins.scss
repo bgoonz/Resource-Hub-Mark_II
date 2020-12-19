@@ -1063,9 +1063,7 @@
 
 //
 // Private
-//
-
-// The private density mixins allow density properties to be overridden
+ The private density mixins allow density properties to be overridden
 // individually to avoid increasing specificity.
 @mixin _evolution-one-line-item-density(
   $density-scale,

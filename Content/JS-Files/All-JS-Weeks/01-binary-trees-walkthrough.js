@@ -42,13 +42,13 @@ binary-tree.png
 /*
   -binary tree is a special case of a graph
   -a graph is just a combination of nodes and interconnections (edges) between them
-  -A cycle is a path along the directed edges from a node back to itself. 
-! Trees cannot posess a cycle 
+  -A cycle is a path along the directed edges from a node back to itself.
+! Trees cannot posess a cycle
 tree-vs-graph-w-cycle.png
 */
 
 /*
-!  ⬇️ 
+!  ⬇️
 !  ⬇️  _________  ___  ___  ___  ________           ___  ________           ________          _________  ________  _______   _______
 !  ⬇️ |\___   ___\\  \|\  \|\  \|\   ____\         |\  \|\   ____\         |\   __  \        |\___   ___\\   __  \|\  ___ \ |\  ___ \
 !  ⬇️ \|___ \  \_\ \  \\\  \ \  \ \  \___|_        \ \  \ \  \___|_        \ \  \|\  \       \|___ \  \_\ \  \|\  \ \   __/|\ \   __/|
@@ -74,10 +74,10 @@ tree-vs-graph-w-cycle.png
 /* ---------------------------------------------------------------------------------------------------------------------------------------------------- */
 
 /*
-                            Ⓐ 
+                            Ⓐ
                            ╱  ╲
                           Ⓑ   Ⓒ
-                         ╱  ╲   ╲        
+                         ╱  ╲   ╲
                         Ⓓ   Ⓔ   Ⓕ
 
 */
@@ -118,10 +118,10 @@ f:  TreeNode { val: 'f', left: null, right: null }
 
 //to get '
 /*
-                            Ⓐ 
+                            Ⓐ
                            ╱  ╲
                           Ⓑ   Ⓒ
-                         ╱  ╲   ╲        
+                         ╱  ╲   ╲
                         Ⓓ   Ⓔ   Ⓕ
 
 */
@@ -166,7 +166,7 @@ console.log("d: ", d);
 console.log("e: ", e);
 console.log("f: ", f);
 /*
-!   ~ aux-materials : (master) node example-bt.js 
+!   ~ aux-materials : (master) node example-bt.js
 a:  TreeNode { val: 'a', left: null, right: null }
 b:  TreeNode { val: 'b', left: null, right: null }
 c:  TreeNode { val: 'c', left: null, right: null }
