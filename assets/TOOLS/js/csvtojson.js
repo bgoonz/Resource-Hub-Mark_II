@@ -758,7 +758,7 @@ function processHead(pointer, headArr, arrReg, flatKeys) {
   return pointer;
 }
 module.exports = {
-  "name": "json",
+  "name": "./../json",
   "processSafe": true,
   "regExp": /^\*json\*/,
   "parserFunc": function parser_json(params) {
@@ -787,7 +787,7 @@ module.exports = {
 
 },{}],11:[function(require,module,exports){
 module.exports = {
-  "name": "jsonarray",
+  "name": "./../jsonarray",
   "processSafe":true,
   "regExp": /^\*jsonarray\*/,
   "parserFunc": function parser_jsonarray (params) {
@@ -967,7 +967,7 @@ function getParser (columnTitle, param) {
     inst = parser.clone();
     inst.head = columnTitle;
   } else {
-    inst = getParserByName("json", columnTitle);
+    inst = getParserByName("./../json", columnTitle);
   }
   inst.setParam(param);
   inst.initHead(columnTitle);

@@ -1,4 +1,4 @@
-window.bridges["json-parse-text"] = function () {
+window.bridges["./../json-parse-text"] = function () {
   var bridge = function (text) {
     var tool = this;
     text = text.trim();

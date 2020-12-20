@@ -537,7 +537,7 @@ Site.resources = {
       var element = preloaded[i];
       if (
         element.tagName.toLowerCase() == "script" &&
-        !this.isLoaded("js", element.src)
+        !this.isLoaded("./../js", element.src)
       ) {
         this.list.js.push(element.getAttribute("src"));
       } else if (
@@ -578,7 +578,7 @@ Site.resources = {
 
     var e;
 
-    if (type == "js") {
+    if (type == "./../js") {
       e = document.createElement("script");
       e.addEventListener("load", function () {
         that.list.js.push(source);
@@ -602,7 +602,7 @@ Site.resources = {
   },
   importFrom: function (data, callback) {
     var resources = [];
-    var typeOrder = ["css", "js"];
+    var typeOrder = ["css", "./../js"];
 
     for (var i = 0; i < typeOrder.length; i++) {
       var type = typeOrder[i];

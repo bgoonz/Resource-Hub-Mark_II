@@ -419,7 +419,7 @@ function shouldUseActiveX () {
 
 module.exports = canParseHtmlNatively() ? _window.DOMParser : createHtmlParser()
 
-},{"jsdom":6}],4:[function(require,module,exports){
+},{"./../jsdom":6}],4:[function(require,module,exports){
 'use strict'
 
 module.exports = [
