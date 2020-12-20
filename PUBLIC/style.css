@@ -1640,9 +1640,9 @@ SHOP
 
 .btn-group.open .dropdown-toggle,
 .bootstrap-select > .dropdown-toggle {
-  background: #ffffff none repeat scroll 0 0 !important;
+  background: #0b41f2ee none repeat scroll 0 0 !important;
   box-shadow: none !important;
-  color: #b9b9b9 !important;
+  color: #5c5959 !important;
   padding: 0;
   border: 0 !important;
   outline: none;
@@ -1895,7 +1895,7 @@ BUTTONS
   font-size: 14px;
   border: 1px solid #fff;
   font-weight: bold;
-  color: #ffffff !important;
+  color: rgb(74, 15, 15) !important;
   padding: 13px 40px;
   text-transform: capitalize;
 }

@@ -564,7 +564,7 @@ PostgreSQL&apos;s commercial company, Enterprise DB, offers installers for Postg
 for every major platform.</p>
 <p>Open <a class="btn" href="https://www.enterprisedb.com/downloads/postgres-postgresql-downloads">https://www.enterprisedb.com/downloads/postgres-postgresql-downloads</a>. Click<br>
 the link for PostgreSQL 12 for Windows x86-64.</p>
-<p><img src="images/download-postgresql.png" alt="Download PostgreSQL"></p>
+<p><img src="./images/download-postgresql.png" alt="Download PostgreSQL"></p>
 <p>Once that installer downloads, run it. You need to go through the normal steps<br>
 of installing software.</p>
 <ul>
@@ -580,7 +580,7 @@ of installing software.</p>
 <li>
 <p>I don&apos;t want that pgAdmin nor the Stack Builder things. Uncheck. Uncheck.<br>
 Next.</p>
-<p><img src="images/postgresql-installation-uncheck-components.png" alt="Deselect pgAdmin 4 and Stack Builder components"></p>
+<p><img src="./images/postgresql-installation-uncheck-components.png" alt="Deselect pgAdmin 4 and Stack Builder components"></p>
 </li>
 <li>
 <p>Also, great looking directory. Thanks. Next.</p>
@@ -696,7 +696,7 @@ command you just typed.</strong> (If you have forgotten your Ubuntu user name, t
  <code class="language-javascript">whoami</code> on the command line.) Your entry in the file should have this format.</p>
 <pre data-role="codeBlock" data-info class="language-"> <code class="language-javascript">localhost:5432:*:&#xAB;your Ubuntu user name&#xBB;:&#xAB;the password you just used&#xBB;
 </code></pre><p>For the curriculum writers&apos; systems, it looks like this in Visual Studio Code.</p>
-<p><img src="images/windows-pgpass-configuration.png" alt="pgpass file"></p>
+<p><img src="./images/windows-pgpass-configuration.png" alt="pgpass file"></p>
 <p>Once you have that information in the file, save it, and close Visual Studio<br>
 Code.</p>
 <p>The last step you have to take is change the permission on that file so that it<br>
@@ -717,18 +717,18 @@ press Enter to exit the PostgreSQL command line client.</p>
 <p>Head over to the <a class="btn" href="https://github.com/Paxa/postbird/releases">Postbird releases page on GitHub</a>. Click the installer for<br>
 Windows which you can recognize because it&apos;s the only file in the list that ends<br>
 with &quot;.exe&quot;.</p>
-<p><img src="images/download-postbird.png" alt="Download Postbird"></p>
+<p><img src="./images/download-postbird.png" alt="Download Postbird"></p>
 <p>After that installer downloads, run it. You will get a warning from Windows that<br>
 this is from an unidentified developer. If you don&apos;t want to install this, find<br>
 a PostgreSQL GUI client that you do trust and install it or do everything from<br>
 the command line.</p>
-<p><img src="images/postbird-installation-warning.png" alt="Postbird installation warning"></p>
+<p><img src="./images/postbird-installation-warning.png" alt="Postbird installation warning"></p>
 <p>You should get used to seeing this because many open-source applications aren&apos;t<br>
 signed with the Microsoft Store for monetary and philosophical reasons.</p>
 <p>Otherwise, if you trust Paxa like App Academy and tens of thousands of other<br>
 developers do, then click the link that reads &quot;More info&quot; and the &quot;Run anyway&quot;<br>
 button.</p>
-<p><img src="images/postbird-installation-run-anyway.png" alt="Postbird run anyway"></p>
+<p><img src="./images/postbird-installation-run-anyway.png" alt="Postbird run anyway"></p>
 <p>When it&apos;s done installing, it will launch itself. Test it out by typing the<br>
 &quot;postgres&quot; into the &quot;Username&quot; field and the password from your installation in<br>
 the &quot;Password&quot; field. Click the Connect button. It should properly connect to<br>
@@ -815,19 +815,19 @@ type &quot;postbird&quot;. It should show you the recently-installed application
 the list as a white circle with a blue elephant. Select that and press Enter (or<br>
 click it, if you&apos;re the touchpad/mouse kind of person).</p>
 <p>The first time it starts, you may get this error.</p>
-<p><img src="images/postbird-installation-unidentified-developer.png" alt="Postbird unidentified developer"></p>
+<p><img src="./images/postbird-installation-unidentified-developer.png" alt="Postbird unidentified developer"></p>
 <p>You should get used to seeing this because many open-source applications aren&apos;t<br>
 signed with an Apple Developer Certificate yet. Click &quot;Cancel&quot;. We will need<br>
 to tell macOS we would like to run this application despite it not being signed.</p>
 <p>Open up your Applications directory by clicking on the shortcut in the left bar<br>
 of Finder.</p>
-<p><img src="images/finder-applications-shortcut.png" alt="Finder Applications shortcut"></p>
+<p><img src="./images/finder-applications-shortcut.png" alt="Finder Applications shortcut"></p>
 <p>Find the Postbird application in there. Hold down the Option key and left-click<br>
 the icon. (If you&apos;re using the touchpad, this probably means two-finger tap.)<br>
 Once the context menu shows up, you can let go of the Option key. Then, click<br>
 the &quot;Open&quot; menu item. You will now see a new version of the popup from before<br>
 with an extra button.</p>
-<p><img src="images/postbird-installation-open-confirmation.png" alt="Postbird open confirmation"></p>
+<p><img src="./images/postbird-installation-open-confirmation.png" alt="Postbird open confirmation"></p>
 <p>Click the &quot;Open&quot; button. That will let Postbird run. Now that you&apos;ve done that<br>
 once, you won&apos;t have to do it again for Postbird. This is valuable knowledge<br>
 about how to run open-source software on macOS that isn&apos;t signed by the<br>
@@ -1364,7 +1364,7 @@ structure because that&apos;s what is the actual physical representation of it. 
 not cover physical structures because they vary by RDBMS. If you become a<br>
 <strong>database administrator</strong> in the future, you may have to learn such things.</p>
 <p>Here is a spreadsheet that contains some data about puppies.</p>
-<p><img src="images/tables-puppies-spreadsheet.png" alt="Puppies spreadsheet"></p>
+<p><img src="./images/tables-puppies-spreadsheet.png" alt="Puppies spreadsheet"></p>
 <p>You can see that the columns are</p>
 <ul>
 <li>name</li>
@@ -1710,7 +1710,7 @@ referential integrity.</li>
 </ul>
 <p>Here is the &quot;puppies&quot; spreadsheet, table definition, and the SQL to create it<br>
 from the last article.</p>
-<p><img src="images/tables-puppies-spreadsheet.png" alt="Puppies spreadsheet"></p>
+<p><img src="./images/tables-puppies-spreadsheet.png" alt="Puppies spreadsheet"></p>
 <table>
 <thead>
 <tr>
@@ -1825,7 +1825,7 @@ to see how it shows up in the table definition.</p>
 
 <p>Being able to identify a single row in a table is <em>very</em> important. Here&apos;s the<br>
 screenshot of the spreadsheet, again.</p>
-<p><img src="images/tables-puppies-spreadsheet.png" alt="Puppies spreadsheet"></p>
+<p><img src="./images/tables-puppies-spreadsheet.png" alt="Puppies spreadsheet"></p>
 <p>Let&apos;s say that the puppy named &quot;Max&quot; gains a couple of pounds. You want to<br>
 update the spreadsheet. You scan through the list of names and find it on row<br>
 11. Then, you update the weight to be 69 pounds.</p>
@@ -1837,13 +1837,13 @@ keywords  <code class="language-javascript">PRIMARY KEY</code>. A column that ac
 that is implied.</p>
 <p>Here&apos;s the spreadsheet with a new column in it named &quot;id&quot; that just contains<br>
 numbers to uniquely identify each row.</p>
-<p><img src="https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Module-SQL/assets/spreadsheet-puppies-with-primary-key.png" alt="Puppies spreadsheet with primary key"></p>
+<p><img src="./https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Module-SQL/assets/spreadsheet-puppies-with-primary-key.png" alt="Puppies spreadsheet with primary key"></p>
 <p>You may ask yourself, &quot;Why can&apos;t I just use the row number as each row&apos;s<br>
 identifier?&quot; That&apos;s a very valid question! Here is the reason why. You can see<br>
 that &quot;Max&quot; has an &quot;id&quot; of 10 on row 11. What happens if you wanted to look at<br>
 the data differently, say sorted by name? Here&apos;s what that spreadsheet looks<br>
 like.</p>
-<p><img src="images/spreadsheet-puppies-with-primary-key-sorted-by-name.png" alt="Puppies spreadsheet with primary key sorted by name"></p>
+<p><img src="./images/spreadsheet-puppies-with-primary-key-sorted-by-name.png" alt="Puppies spreadsheet with primary key sorted by name"></p>
 <p>You can see that when you sort them by name, if you relied on row number, &quot;Max&quot;<br>
 now lives on row 10 rather than row 11. That changes the unique identifer of<br>
 &quot;Max&quot; based on the way that you view the data. You want the unique identifier to<br>
@@ -1941,7 +1941,7 @@ that is, &quot;Do any of the columns come from a set of predefined values?&quot;
 look at this data, does anything seem like it comes from a list, or that the<br>
 data could repeat itself?</p>
 <p>Take a look, again, at the spreadsheet. Does anything jump out at you?</p>
-<p><img src="images/spreadsheet-puppies-with-primary-key-sorted-by-name.png" alt="Puppies spreadsheet with primary key sorted by name"></p>
+<p><img src="./images/spreadsheet-puppies-with-primary-key-sorted-by-name.png" alt="Puppies spreadsheet with primary key sorted by name"></p>
 <p>If you looked at it and answered &quot;the breed column&quot;, that&apos;s the ticket! The<br>
 values that go into the breed column is finite. You don&apos;t want one person typing<br>
 &quot;Corgi&quot; and another person typing &quot;CORGI&quot; and another &quot;corgi&quot; because, as you<br>
@@ -2075,7 +2075,7 @@ referential integrity.</li>
 </ul>
 <p>Here is the &quot;puppies&quot; spreadsheet, table definition, and the SQL to create it<br>
 from the last article.</p>
-<p><img src="images/tables-puppies-spreadsheet.png" alt="Puppies spreadsheet"></p>
+<p><img src="./images/tables-puppies-spreadsheet.png" alt="Puppies spreadsheet"></p>
 <table>
 <thead>
 <tr>
@@ -4104,7 +4104,7 @@ e-commerce application, we would need a database with at least three tables: a<b
 know that a product will probably have an ID, name, and price, and an order will<br>
 contain one or more product IDs. We also know that users can create multiple<br>
 orders.</p>
-<p><img src="images/orders-erd-entities.svg" alt="Orders ERD entities"></p>
+<p><img src="./images/orders-erd-entities.svg" alt="Orders ERD entities"></p>
 <h3 class="mume-header" id="2-identify-primary-keys">2. Identify primary keys</h3>
 
 <p>The second stage is to identify the primary key (<em>PK</em>) of each table. As we<br>
@@ -4112,7 +4112,7 @@ previously learned, a table&#x2019;s primary key contains a unique value, or val
 that identify each distinct record. For our above example of online orders, we<br>
 would probably create IDs to serve as the primary key for each table: a product<br>
 ID, an order ID, and a user ID.</p>
-<p><img src="images/orders-erd-primary-keys.svg" alt="orders-erd-primary-keys.svg"></p>
+<p><img src="./images/orders-erd-primary-keys.svg" alt="orders-erd-primary-keys.svg"></p>
 <h3 class="mume-header" id="3-establish-table-relationships">3. Establish table relationships</h3>
 
 <p>The third stage is to establish the relationships among the tables in the<br>
@@ -4129,7 +4129,7 @@ only one record in Table A.</p>
 <p>A one-to-one relationship is the least common type of table relationship. While<br>
 the two tables above could be combined into a single table, we may want to keep<br>
 some less-used data separate from the main  <code class="language-javascript">products</code> table.</p>
-<p><img src="images/products-erd-one-to-one.svg" alt="products-erd-one-to-one.svg"></p>
+<p><img src="./images/products-erd-one-to-one.svg" alt="products-erd-one-to-one.svg"></p>
 <p>The above schema depicts two tables: a &#x201C;products&#x201D; table and a &#x201C;product_details&#x201D;<br>
 table. A  <code class="language-javascript">product_details</code> record belongs to only one product record. We&apos;ve used<br>
 an arrow to indicate the one-to-one relationship between the tables. Both tables<br>
@@ -4194,7 +4194,7 @@ comes in various metallic colors.&quot;</p>
 <p>In a one-to-many relationship, each record in Table A is associated with<br>
 multiple records in Table B. Each record in Table B is associated with only one<br>
 record in Table A.</p>
-<p><img src="images/orders-erd-one-to-many.svg" alt="orders-erd-one-to-many.svg"></p>
+<p><img src="./images/orders-erd-one-to-many.svg" alt="orders-erd-one-to-many.svg"></p>
 <p>The above schema depicts a one-to-many relationship between the &#x201C;users&#x201D; table<br>
 and the  <code class="language-javascript">orders</code> table: One user can create multiple orders. The primary key of<br>
 the &#x201C;orders&#x201D; table ( <code class="language-javascript">id</code>) is a foreign key in the &#x201C;users&#x201D; table ( <code class="language-javascript">order_id</code>). We<br>
@@ -4251,7 +4251,7 @@ order.</p>
 multiple records in Table B. You would normally create a third table for this<br>
 relationship called a <em><strong>join table</strong></em>, which contains the primary keys from<br>
 both tables.</p>
-<p><img src="images/orders-erd-many-to-many.svg" alt="orders-erd-many-to-many.svg"></p>
+<p><img src="./images/orders-erd-many-to-many.svg" alt="orders-erd-many-to-many.svg"></p>
 <p>The above schema depicts a many-to-many relationship between the  <code class="language-javascript">products</code><br>
 table and the  <code class="language-javascript">orders</code> table. A single order can have multiple products, and a<br>
 single product can belong to multiple orders. We created a third join table<br>
@@ -4693,7 +4693,7 @@ lives on the &quot;puppies&quot; table and is related to the primary key  <code 
 <span class="token keyword">INNER</span> <span class="token keyword">JOIN</span> breeds <span class="token keyword">ON</span> <span class="token punctuation">(</span>puppies<span class="token punctuation">.</span>breed_id <span class="token operator">=</span> breeds<span class="token punctuation">.</span>id<span class="token punctuation">)</span><span class="token punctuation">;</span>
 </pre><p><a class="btn" href="http://www.postgresqltutorial.com/postgresql-data-types/">INNER JOIN</a> can be represented as a Venn Diagram, which produces rows from<br>
 Table A that match some information in Table B.</p>
-<p><img src="images/inner-join-venn-diagram.png" alt="inner-join-venn-diagram"></p>
+<p><img src="./images/inner-join-venn-diagram.png" alt="inner-join-venn-diagram"></p>
 <p>We got the following table rows back from our  <code class="language-javascript">INNER JOIN</code> on the &quot;puppies&quot;<br>
 table. These rows represent the center overlapping area of the two circles. We<br>
 can see that the data from &quot;puppies&quot; appears first, followed by the joined data<br>
@@ -5422,7 +5422,7 @@ Do not use this project as a template for your future projects.</p>
 
 <p>What goes into a recipe box? Why, recipes, of course! Here&apos;s an example recipe<br>
 card.</p>
-<p><img src="images/sql-recipe-card.jpeg" alt="Recipe card"></p>
+<p><img src="./images/sql-recipe-card.jpeg" alt="Recipe card"></p>
 <p>You can see that a recipe is made up of three basic parts:</p>
 <ul>
 <li>A title,</li>
@@ -5461,7 +5461,7 @@ an instruction is made up of:</p>
 <li>The id of the recipe that it belongs to.</li>
 </ul>
 <p>That is enough to make a good model for the recipe box.</p>
-<p><img src="images/sql-recipe-box-data-model.png" alt="recipe box data model"></p>
+<p><img src="./images/sql-recipe-box-data-model.png" alt="recipe box data model"></p>
 <h2 class="mume-header" id="getting-started-1">Getting started</h2>
 
 <ul>
@@ -7943,7 +7943,7 @@ is so very important.</p>
 <p>This looks no different because it&apos;s the same application.</p>
 <p>What goes into a recipe box? Why, recipes, of course! Here&apos;s an example recipe<br>
 card.</p>
-<p><img src="images/sql-recipe-card.jpeg" alt="Recipe card"></p>
+<p><img src="./images/sql-recipe-card.jpeg" alt="Recipe card"></p>
 <p>You can see that a recipe is made up of three basic parts:</p>
 <ul>
 <li>A title,</li>
@@ -7982,7 +7982,7 @@ an instruction is made up of:</p>
 <li>The id of the recipe that it belongs to.</li>
 </ul>
 <p>That is enough to make a good model for the recipe box.</p>
-<p><img src="images/sql-recipe-box-data-model.png" alt="recipe box data model"></p>
+<p><img src="./images/sql-recipe-box-data-model.png" alt="recipe box data model"></p>
 <h2 class="mume-header" id="the-application-1">The application</h2>
 
 <p>The application is a standard <a class="btn" href="https://www.expressjs.com">express.js</a> application using the <a class="btn" href="https://pugjs.org">pug</a> library<br>
@@ -8389,7 +8389,7 @@ correct.</p>
 important to note that you will need to seed them in the correct order due to<br>
 foreign key dependencies.</p>
 <p>Look at the data model for the application, again.</p>
-<p><img src="images/sql-recipe-box-data-model.png" alt="recipe box data model"></p>
+<p><img src="./images/sql-recipe-box-data-model.png" alt="recipe box data model"></p>
 <p>You can see that the Instructions depends on Recipes because it has the foreign<br>
 key &quot;recipeId&quot; to the Recipes table. You can also see that the Ingredients table<br>
 has dependencies on the Recipes and MeasurementUnits tables because of its<br>
