@@ -4851,7 +4851,7 @@
       return y;
     },
     getJSON: function (a, b, c) {
-      return r.get(a, b, c, "json");
+      return r.get(a, b, c, "./../json");
     },
     getScript: function (a, b) {
       return r.get(a, void 0, b, "script");
@@ -5052,7 +5052,7 @@
       return (this[a] = !0), a;
     },
   }),
-    r.ajaxPrefilter("json jsonp", function (b, c, d) {
+    r.ajaxPrefilter("./../json jsonp", function (b, c, d) {
       var e,
         f,
         g,
@@ -5067,7 +5067,7 @@
                 ) &&
               Ub.test(b.data) &&
               "data");
-      if (h || "jsonp" === b.dataTypes[0])
+      if (h || "./../jsonp" === b.dataTypes[0])
         return (
           (e = b.jsonpCallback = r.isFunction(b.jsonpCallback)
             ? b.jsonpCallback()
@@ -5079,7 +5079,7 @@
           (b.converters["script json"] = function () {
             return g || r.error(e + " was not called"), g[0];
           }),
-          (b.dataTypes[0] = "json"),
+          (b.dataTypes[0] = "./../json"),
           (f = a[e]),
           (a[e] = function () {
             g = arguments;
