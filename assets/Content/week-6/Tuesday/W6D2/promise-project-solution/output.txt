@@ -105,7 +105,11 @@ obApi('track', 'PAGE_VIEW');
 <!-- End Reddit Conversion Pixel -->
 
 
+<<<<<<< HEAD
   <script async defer src="/assets/site-6aac66161b8853c0e74570c1365dc88046915c0c6281339f19edbdaedf9fdebb.js"></script>
+=======
+  <script src="/assets/site-6aac66161b8853c0e74570c1365dc88046915c0c6281339f19edbdaedf9fdebb.js"></script>
+>>>>>>> faa6aaf237eae4895460e74eebaa130feb27079a
 
 
   <!-- Anti-flicker snippet (recommended)  -->
