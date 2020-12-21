@@ -16,8 +16,9 @@
   },
   "dependencies": {
     "@dojo/framework": "~7.0.0",
-    "tslib": "~1.9.3",
-    "@webcomponents/custom-elements": "~1.0.9"
+    "@webcomponents/custom-elements": "~1.0.9",
+    "caniuse-lite": "^1.0.30001170",
+    "tslib": "~1.9.3"
   },
   "devDependencies": {
     "@dojo/cli": "~7.0.0",

@@ -20,6 +20,12 @@ IMPORT
   }
 }
 
+
+
+
+
+
+
 [class^="flaticon-"]:before,
 [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after,
@@ -89,10 +95,10 @@ SKELETON
 ******************************************/
 
 body {
-  background-color: #f6f6f6;
+  background-color: #727171;
   line-height: 1.6;
   font-size: 16px;
-  color: #a2a2a2;
+  color: white;
   background-image: "./other-pages/blog-posts/9-thigs-you-should-know-about/double-bubble-outline/double-bubble-outline/double-bubble-outline.png";
 }
 
@@ -127,7 +133,7 @@ h6 {
 .cop-logo img,
 a {
   color: #000;
-  text-decoration: none !important;
+  text-decoration: none ;
   -webkit-transition: all ease 0.3s;
   -moz-transition: all ease 0.3s;
   transition: all ease 0.3s;
@@ -224,7 +230,7 @@ HEADER
   right: 0;
   padding: 0;
   background-color: transparent;
-  text-decoration: none !important;
+  text-decoration: none ;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
@@ -243,7 +249,7 @@ HEADER
 }
 
 .header-normal .navbar-default .nav > li > a {
-  color: #848484 !important;
+  color: #848484 ;
 }
 
 .header.affix {
@@ -274,7 +280,7 @@ HEADER
 }
 
 .navbar-default .nav > li > a {
-  color: #fff !important;
+  color: #fff ;
   text-transform: capitalize;
   font-size: 15px;
   font-weight: 500;
@@ -300,12 +306,12 @@ HEADER
 }
 
 .navbar-brand img {
-  margin: 0 !important;
+  margin: 0 ;
 }
 
 .social a {
   font-size: 12px;
-  color: #fff !important;
+  color: #fff ;
   display: inline-block;
   background-color: rgba(255, 255, 255, 0.1);
   width: 25px;
@@ -324,7 +330,7 @@ HEADER
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color: transparent !important;
+  background-color: transparent ;
 }
 
 .navbar-brand {
@@ -372,7 +378,7 @@ HEADER
   background-color: transparent;
   border: 0;
   border-radius: 6px;
-  box-shadow: none !important;
+  box-shadow: none ;
   outline: 0 none;
   position: relative;
 }
@@ -417,7 +423,7 @@ HEADER
 }
 
 .iconitem a {
-  padding-left: 8px !important;
+  padding-left: 8px ;
 }
 
 /******************************************
@@ -457,7 +463,7 @@ MEGA MENU
 }
 
 .yamm .dropdown-menu ul {
-  padding: 0 !important;
+  padding: 0 ;
   list-style: none;
 }
 
@@ -467,17 +473,17 @@ MEGA MENU
 }
 
 .yamm .dropdown-menu li a {
-  padding: 0 !important;
+  padding: 0 ;
   color: #848484;
 }
 
 .yamm .dropdown-menu li:hover a {
-  padding-left: 10px !important;
+  padding-left: 10px ;
   background-color: transparent;
 }
 
 .yamm-fw .dropdown-menu li:hover a {
-  padding-left: 0 !important;
+  padding-left: 0 ;
 }
 
 .yamm .dropdown .dropdown-menu {
@@ -489,13 +495,13 @@ MEGA MENU
 .yamm .dropdown .dropdown-menu {
   border-radius: 0;
   border-top: 3px solid #ddd;
-  background-color: #fff !important;
+  background-color: #fff ;
   margin-top: 24px;
   padding: 20px 30px;
 }
 
 .header.affix .yamm .dropdown .dropdown-menu {
-  margin-top: 15px !important;
+  margin-top: 15px ;
 }
 
 .yamm .dropdown .dropdown-menu .show-left {
@@ -522,23 +528,23 @@ MEGA MENU
 
 .menu-widget h5,
 .menu-widget h5 a {
-  font-size: 16px !important;
+  font-size: 16px ;
   font-weight: 700;
-  margin: 0 !important;
-  padding: 10px 0 5px !important;
-  color: #000 !important;
+  margin: 0 ;
+  padding: 10px 0 5px ;
+  color: #000 ;
 }
 
 .yamm .dropdown-menu li:hover .menu-button,
 .yamm .dropdown-menu li .menu-button {
-  border-radius: 0 !important;
-  font-size: 13px !important;
+  border-radius: 0 ;
+  font-size: 13px ;
   border: 1px solid #fff;
   font-weight: bold;
-  color: #ffffff !important;
+  color: #ffffff ;
   display: block;
   background-color: #111;
-  padding: 5px 20px !important;
+  padding: 5px 20px ;
   max-width: 140px;
   margin: 10px auto 0;
   text-transform: capitalize;
@@ -549,7 +555,7 @@ PAGES
 ******************************************/
 
 .page-title h3 {
-  margin-bottom: 10px !important;
+  margin-bottom: 10px ;
 }
 
 .breadcrumb {
@@ -575,7 +581,7 @@ PAGES
 }
 
 .section.cb {
-  padding: 40px 0 !important;
+  padding: 40px 0 ;
 }
 
 .section.cb .breadcrumb {
@@ -584,8 +590,8 @@ PAGES
 
 .section.cb h3 {
   font-size: 24px;
-  padding: 0 !important;
-  margin: 0 !important;
+  padding: 0 ;
+  margin: 0 ;
 }
 
 .breadcrumb > li + li::before {
@@ -598,7 +604,7 @@ PAGES
 }
 
 .tags-widget a {
-  color: #ffffff !important;
+  color: #ffffff ;
   padding: 4px 10px;
   border-radius: 2px;
   font-size: 14px;
@@ -622,7 +628,7 @@ PAGES
 .pagination > li > a,
 .pagination > li > span {
   background-color: #fff;
-  border: 1px solid #eeeeee !important;
+  border: 1px solid #eeeeee ;
   color: #999;
   float: left;
   line-height: 1.42857;
@@ -688,7 +694,7 @@ CONTACT
 .small-box a {
   margin-top: 15px;
   display: block;
-  text-decoration: underline !important;
+  text-decoration: underline ;
   font-weight: 600;
   font-size: 16px;
 }
@@ -703,7 +709,7 @@ CONTACT
 }
 
 .big-contact-form textarea {
-  height: 120px !important;
+  height: 120px ;
 }
 
 .big-contact-form .form-control::-moz-placeholder {
@@ -749,7 +755,7 @@ CONTACT
 }
 
 .infobox img {
-  width: 100% !important;
+  width: 100% ;
 }
 
 .map .searchmodule {
@@ -810,7 +816,7 @@ SECTIONS
 }
 
 .no-scroll-xy {
-  overflow: hidden !important;
+  overflow: hidden ;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -942,7 +948,7 @@ SECTIONS
 }
 
 .nopadtop {
-  padding-top: 0 !important;
+  padding-top: 0 ;
 }
 
 .box {
@@ -1066,7 +1072,7 @@ COURSE MODULES
 }
 
 .course-footer a {
-  color: #aaa;
+  color: white;
 }
 
 .course-footer i {
@@ -1074,6 +1080,7 @@ COURSE MODULES
 }
 
 .course-footer {
+  color: white;
   border-top: 1px solid #eaeaea;
   padding: 15px;
 }
@@ -1131,7 +1138,7 @@ COURSE MODULES
   right: 0;
   margin: -20px auto;
   font-size: 30px;
-  color: #fff !important;
+  color: #fff ;
 }
 
 /************************************
@@ -1146,7 +1153,7 @@ WIDGETS
 
 .sidebar .widget-title {
   font-weight: 600;
-  color: #000000;
+  color: white;
 }
 
 .sidebar .tags-widget li {
@@ -1246,7 +1253,7 @@ BLOG
 
 .media-right,
 .media > .pull-right {
-  color: #999 !important;
+  color: #999 ;
   font-size: 11px;
   letter-spacing: 2px;
   padding-left: 10px;
@@ -1266,12 +1273,12 @@ BLOG
 }
 
 .media-body .btn-primary {
-  padding: 5px 10px !important;
-  font-size: 11px !important;
+  padding: 5px 10px ;
+  font-size: 11px ;
 }
 
 .last-child {
-  margin-bottom: 0 !important;
+  margin-bottom: 0 ;
 }
 
 .comments-list img {
@@ -1294,7 +1301,7 @@ BLOG
 
 .authorbox img {
   min-width: 130px;
-  margin: 10px 30px 0 0 !important;
+  margin: 10px 30px 0 0 ;
 }
 
 .blog-list {
@@ -1373,10 +1380,10 @@ BLOG
 
 .blog-box .magnifier {
   border-radius: 6px 6px 0 0;
-  top: 0 !important;
-  bottom: 0 !important;
-  left: 0 !important;
-  right: 0 !important;
+  top: 0 ;
+  bottom: 0 ;
+  left: 0 ;
+  right: 0 ;
 }
 
 .blog-box img {
@@ -1528,7 +1535,7 @@ TESTIMONIAL
 }
 
 .rating i {
-  color: #f4af0b !important;
+  color: #f4af0b ;
   margin-bottom: 0;
   padding-bottom: 0;
   line-height: 1;
@@ -1537,7 +1544,7 @@ TESTIMONIAL
 }
 
 .p120 {
-  padding-bottom: 120px !important;
+  padding-bottom: 120px ;
 }
 
 .section.lb {
@@ -1640,11 +1647,11 @@ SHOP
 
 .btn-group.open .dropdown-toggle,
 .bootstrap-select > .dropdown-toggle {
-  background: #0b41f2ee none repeat scroll 0 0 !important;
-  box-shadow: none !important;
-  color: #5c5959 !important;
+  background: #ffffff none repeat scroll 0 0 ;
+  box-shadow: none ;
+  color: #b9b9b9 ;
   padding: 0;
-  border: 0 !important;
+  border: 0 ;
   outline: none;
   width: 100%;
   z-index: 1;
@@ -1683,26 +1690,26 @@ SHOP
 }
 
 .shop-extra .nav-tabs > li > a {
-  background-color: #ffffff !important;
-  border: 0 !important;
-  border-bottom: 3px solid transparent !important;
+  background-color: #ffffff ;
+  border: 0 ;
+  border-bottom: 3px solid transparent ;
   border-radius: 0;
   font-weight: 700;
-  outline: none !important;
+  outline: none ;
   font-size: 17px;
   line-height: 1.42857;
   padding: 10px 30px;
-  box-shadow: none !important;
+  box-shadow: none ;
   margin-right: 15px;
 }
 
 .shop-extra .nav-tabs {
-  border-bottom: 3px solid #f6f6f6 !important;
+  border-bottom: 3px solid #f6f6f6 ;
 }
 
 .shop-extra .nav-tabs > li:hover a,
 .shop-extra .nav-tabs > li.active a {
-  border-bottom-color: #111 !important;
+  border-bottom-color: #111 ;
 }
 
 .shop-extra .tab-content {
@@ -1740,6 +1747,7 @@ FOOTER
 .section.footer {
   padding: 12rem 0;
   background-color: #000;
+  color:white;
 }
 
 .social-links i {
@@ -1773,14 +1781,14 @@ FOOTER
 }
 
 .copyrights ul {
-  padding: 0 !important;
-  margin: 15px 0 0 !important;
+  padding: 0 ;
+  margin: 15px 0 0 ;
 }
 
 .copyrights ul li {
   line-height: 1;
   font-size: 15px;
-  margin: 0 0 0 8px !important;
+  margin: 0 0 0 8px ;
 }
 
 .cop-logo img {
@@ -1801,7 +1809,7 @@ FOOTER
 .newsletter-widget .form-control {
   border-radius: 0;
   font-size: 14px;
-  box-shadow: none !important;
+  box-shadow: none ;
   height: 48px;
   background: transparent;
   border: 1px solid rgba(255, 255, 255, 0.2);
@@ -1829,12 +1837,13 @@ FOOTER
 }
 
 .footer .list-widget li {
-  margin: 0 0 5px !important;
+  margin: 0 0 5px ;
 }
 
 .footer .tags-widget li {
   margin-bottom: 5px;
   margin-top: 5px;
+  color:white;
 }
 
 .footer .form-control,
@@ -1864,7 +1873,7 @@ FOOTER
   font-size: 14px;
   height: 40px;
   padding-bottom: 15px;
-  box-shadow: none !important;
+  box-shadow: none ;
   color: rgba(255, 255, 255, 0.6);
   margin-bottom: 15px;
 }
@@ -1895,11 +1904,25 @@ BUTTONS
   font-size: 14px;
   border: 1px solid #fff;
   font-weight: bold;
-  color: rgb(74, 15, 15) !important;
+  color: #ffffff ;
   padding: 13px 40px;
   text-transform: capitalize;
 }
 
+.btn2 {
+  border-radius: 2px;
+  font-size: 14px;
+  border: 1px solid black;
+  background-color: #4234f8;
+  font-weight: bold;
+  color: black ;
+  padding: 13px 40px;
+  text-transform: capitalize;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+}
 .btn-transparent {
   color: #ffffff;
   border: 1px solid #fff;
@@ -1954,7 +1977,7 @@ COLOR BLUE
 }
 
 .iconitem a.shopicon i {
-  color: #01bacf !important;
+  color: #01bacf ;
 }
 
 .shop-desc small,
@@ -1989,7 +2012,7 @@ a:focus,
 .modal .form-control,
 .form-control:focus,
 .btn-transparent {
-  border-color: #01bacf !important;
+  border-color: #01bacf ;
 }
 
 .cb,
@@ -2021,7 +2044,7 @@ mark,
 .pagination a:hover,
 .tags-widget a:hover,
 .btn-primary:hover {
-  color: #ffffff !important;
+  color: #ffffff ;
   box-shadow: inset 0 100px 0 0 #00a8bd;
   border-color: #00a8bd;
 }
@@ -2055,7 +2078,7 @@ RESPONSIVE
 
 @media (max-width: 992px) {
   .p120 {
-    padding-bottom: 8rem !important;
+    padding-bottom: 8rem ;
   }
   .boxed {
     margin-top: 4rem;
@@ -2075,7 +2098,7 @@ RESPONSIVE
     margin-top: 30px;
   }
   .container {
-    min-width: 100% !important;
+    min-width: 100% ;
   }
   .footer .widget {
     margin: 30px 0;
@@ -2101,7 +2124,7 @@ RESPONSIVE
   }
   .authorbox img {
     float: none;
-    margin: 0 0 30px !important;
+    margin: 0 0 30px ;
     min-width: 100px;
   }
   .media-left,
