@@ -35,8 +35,19 @@
 		<script async defer src="./_Main-Components/js/vendor/html5shiv.min.js"></script>
 		<script async defer src="./_Main-Components/js/vendor/respond.min.js"></script>
   <![endif]-->
-  <!--
-                                    jQuery Files -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
+<script async type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
+<script async type="text/javascript">
+  algoliasearchNetlify({
+    appId: 'P7DAHWQACD',
+    apiKey: '<YOUR_ALGOLIA_SEARCH_API_KEY>',
+    siteId: '0e52a10a-8bf7-4d7a-b6a8-15ac807bba2f',
+    branch: 'master',
+    selector: 'div#search',
+  });
+</script>
+  
+                                  <!--  jQuery Files -->
   <script async defer src="./_Main-Components/js/jquery.min.js"></script>
   <script async defer src="./_Main-Components/js/bootstrap.min.js"></script>
   <script async defer src="./_Main-Components/js/carousel.js"></script>
@@ -631,7 +642,7 @@
          src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js">
       </script> -->
       
-      
+       <script async defer src="./other-pages/_TOOLS/Repo.js-master/repo.min.js"></script>
       <script async defer src="./other-pages/_TOOLS/Repo.js-master/repo.js"></script>
       <script>
         $( 'body' ).repo( {
