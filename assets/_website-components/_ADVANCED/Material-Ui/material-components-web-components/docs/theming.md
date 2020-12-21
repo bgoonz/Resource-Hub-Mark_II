@@ -42,7 +42,7 @@ you'll need to take a few extra steps. (These steps primarily apply to Internet 
 2.  Load `CustomStyleInterface` (after loading the web components polyfills):
 
     ```html
-    <script src="@webcomponents/shadycss/custom-style-interface.min.js"></script>
+    <script async defer src="@webcomponents/shadycss/custom-style-interface.min.js"></script>
     ```
 
 3.  Identify any top-level style elements that define custom properties. Add

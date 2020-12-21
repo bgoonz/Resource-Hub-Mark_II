@@ -67,7 +67,7 @@ categories: ruby
     patched. But in line number 5 you can see that the <i>source_location</i> method returns an array of two elements,
     first is the file path, in this case it is pry/irb, &nbsp;second one is the line number.<br /><br />Here is the
     snippet I used in the above example. You can fork and try to execute it.<br /><br />
-    <script src="https://gist.github.com/4171319.js?file=source.rb"></script><noscript>
+    <script async defer src="https://gist.github.com/4171319.js?file=source.rb"></script><noscript>
       <pre><br /># Before Monkey patch<br />reply = "Hello world"<br />p reply.method(:split).source_location<br /><br /># Monkey patch<br />class String<br />  def split<br />    p "Monkey patch"<br />  end<br />end<br /><br /># After Monkey patch<br />p reply.method(:split).source_location<br /></pre>
     </noscript><br />Hope this will save your time.<br />Thank you.
   </div>

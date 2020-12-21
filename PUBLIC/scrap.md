@@ -1,2 +1,1 @@
-
-./_MAIN-COMPONENTS/js/bootstrap.js
+./assets/Content/blog-posts/0-projects/projects.html

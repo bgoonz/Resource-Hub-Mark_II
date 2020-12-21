@@ -36,7 +36,7 @@
  * ----------------------------------------------------------------------
  *
  * Usage:
- *   <script src="isaac.js"></script>
+ *   <script async defer src="isaac.js"></script>
  *   var random_number = isaac.random();
  *
  * Output: [ 0x00000000; 0xffffffff]

@@ -70,7 +70,7 @@ Import the component's JavaScript module, use the component in your HTML, and co
     <title>My Example App</title>
 
     <!-- Add support for Web Components to older browsers. -->
-    <script src="./node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
+    <script async defer src="./node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
 
     <!-- Your application must load the Roboto and Material Icons fonts. -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
