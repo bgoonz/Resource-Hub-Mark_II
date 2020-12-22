@@ -33,7 +33,7 @@ content = "width=device-width" >
 
   <
   title > html5shiv / html5shiv.js at master· aFarkas / html5shiv· GitHub < /title> <
-<<<<<<< HEAD
+
 link rel = "search"
 =======
   link rel = "search"
@@ -174,7 +174,7 @@ href = "https://assets-cdn.github.com/favicon.ico" >
 content = "#1e2327" >
 
   <
-<<<<<<< HEAD
+
   /head> <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - >
 =======
   /head> <
@@ -201,7 +201,7 @@ content = "#1e2327" >
 href = "#start-of-content"
 tabindex = "1"
 class = "accessibility-aid js-skip-to-content" > Skip to content < /a> <
-<<<<<<< HEAD
+
 div id = "js-pjax-loader-bar"
 =======
   div id = "js-pjax-loader-bar"
@@ -225,7 +225,7 @@ height = "32"
 version = "1.1"
 viewBox = "0 0 16 16"
 width = "32" > < path fill - rule = "evenodd"
-<<<<<<< HEAD
+
 d = "M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z" / > < /svg> < /
   a >
 =======
@@ -244,7 +244,7 @@ height = "24"
 version = "1.1"
 viewBox = "0 0 12 16"
 width = "18" > < path fill - rule = "evenodd"
-<<<<<<< HEAD
+
 d = "M11.41 9H.59C0 9 0 8.59 0 8c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zm0-4H.59C0 5 0 4.59 0 4c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zM.59 11H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1H.59C0 13 0 12.59 0 12c0-.59 0-1 .59-1z" / > < /svg> < /
   button >
 =======
@@ -290,7 +290,7 @@ Pricing
 role = "search" >
   <
   !--'"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/aFarkas/html5shiv/search" class="js-site-search-form" data-scoped-search-url="/aFarkas/html5shiv/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div> <
-<<<<<<< HEAD
+
 label class = "form-control header-search-wrapper js-chromeless-input-container" >
 =======
   label class = "form-control header-search-wrapper js-chromeless-input-container" >
@@ -299,7 +299,7 @@ label class = "form-control header-search-wrapper js-chromeless-input-container"
   a class = "btn"
 href = "/aFarkas/html5shiv/blob/master/src/html5shiv.js"
 class = "header-search-scope no-underline" > This repository < /a> <
-<<<<<<< HEAD
+
 input type = "text"
 =======
   input type = "text"
@@ -318,7 +318,7 @@ autocapitalize = "off" >
 class = "js-site-search-type-field"
 name = "type" >
   <
-<<<<<<< HEAD
+
   /label> < /
   form > < /div >
 =======
@@ -330,7 +330,7 @@ name = "type" >
   a class = "text-bold site-header-link"
 href = "/login?return_to=%2FaFarkas%2Fhtml5shiv%2Fblob%2Fmaster%2Fsrc%2Fhtml5shiv.js"
 data - ga - click = "(Logged out) Header, clicked Sign in, text:sign-in" > Sign in < /a> <
-<<<<<<< HEAD
+
 span class = "text-gray" > or < /span> <
 a class = "text-bold site-header-link"
 href = "/join?source=header-repo"
@@ -395,7 +395,7 @@ d = "M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1
 Watch
   <
   /a> <
-<<<<<<< HEAD
+
 a class = "social-count"
 =======
   a class = "social-count"
@@ -464,7 +464,7 @@ href = "/aFarkas/html5shiv/network"
 class = "social-count"
 aria - label = "2076 users forked this repository" >
   2, 076 <
-<<<<<<< HEAD
+
   /a> < /
   li > <
 =======
@@ -483,7 +483,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "author"
 =======
   span class = "author"
@@ -502,7 +502,7 @@ data - pjax = "#js-repo-pjax-container" > html5shiv < /a></strong >
 
   <
   /div> <
-<<<<<<< HEAD
+
 div class = "container" >
 =======
   div class = "container" >
@@ -533,7 +533,7 @@ version = "1.1"
 viewBox = "0 0 14 16"
 width = "14" > < path fill - rule = "evenodd"
 d = "M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z" / > < /svg> <
-<<<<<<< HEAD
+
 span itemprop = "name" > Code < /span> <
 meta itemprop = "position"
 =======
@@ -562,7 +562,7 @@ version = "1.1"
 viewBox = "0 0 14 16"
 width = "14" > < path fill - rule = "evenodd"
 d = "M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z" / > < /svg> <
-<<<<<<< HEAD
+
 span itemprop = "name" > Issues < /span> <
 span class = "counter" > 40 < /span> <
 meta itemprop = "position"
@@ -593,7 +593,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z" / > < /svg> <
-<<<<<<< HEAD
+
 span itemprop = "name" > Pull requests < /span> <
 span class = "counter" > 15 < /span> <
 meta itemprop = "position"
@@ -621,7 +621,7 @@ width = "15" > < path fill - rule = "evenodd"
 d = "M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z" / > < /svg>
 Projects
   <
-<<<<<<< HEAD
+
   span class = "counter" > 0 < /span> < /
   a > <
 =======
@@ -661,7 +661,7 @@ d = "M11.5 8L8.8 5.4 6.6 8.5 5.5 1.6 2.38 8H0v2h3.6l.9-1.8.9 5.4L9 8.5l1.6 1.5H1
 Pulse
   <
   /a> <
-<<<<<<< HEAD
+
 a class = "btn"
 =======
   a class = "btn"
@@ -685,7 +685,7 @@ Graphs
   /nav>
 
   <
-<<<<<<< HEAD
+
   /div> < /
   div >
 =======
@@ -722,7 +722,7 @@ tabindex = "0"
 aria - haspopup = "true" >
   <
   i > Branch: < /i> <
-<<<<<<< HEAD
+
 span class = "js-select-button css-truncate-target" > master < /span> < /
   button >
 =======
@@ -747,7 +747,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-title" > Switch branches / tags < /span> < /
   div >
 =======
@@ -767,7 +767,7 @@ class = "form-control js-filterable-field js-navigation-enable"
 placeholder = "Filter branches/tags" >
   <
   /div> <
-<<<<<<< HEAD
+
 div class = "select-menu-tabs" >
 =======
   div class = "select-menu-tabs" >
@@ -782,7 +782,7 @@ href = "#"
 data - tab - filter = "branches"
 data - filter - placeholder = "Filter branches/tags"
 class = "js-select-menu-tab"
-<<<<<<< HEAD
+
 role = "tab" > Branches < /a> < /
   li > <
 =======
@@ -796,7 +796,7 @@ href = "#"
 data - tab - filter = "tags"
 data - filter - placeholder = "Find a tag…"
 class = "js-select-menu-tab"
-<<<<<<< HEAD
+
 role = "tab" > Tags < /a> < /
   li > <
   /ul> < /
@@ -833,7 +833,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target js-select-menu-filter-text" >
   defineProperty <
   /span> < /
@@ -857,7 +857,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target js-select-menu-filter-text" >
   gh - pages <
   /span> < /
@@ -881,7 +881,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target js-select-menu-filter-text" >
   iepp - htc <
   /span> < /
@@ -905,7 +905,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target js-select-menu-filter-text" >
   innershiv <
   /span> < /
@@ -929,7 +929,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target js-select-menu-filter-text" >
   master <
   /span> < /
@@ -973,7 +973,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target"
 title = "3.7.3" >
   3.7 .3 <
@@ -999,7 +999,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target"
 title = "3.7.2" >
   3.7 .2 <
@@ -1025,7 +1025,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target"
 title = "3.7.1" >
   3.7 .1 <
@@ -1051,7 +1051,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target"
 title = "3.7.0" >
   3.7 .0 <
@@ -1077,7 +1077,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target"
 title = "3.6.2" >
   3.6 .2 <
@@ -1103,7 +1103,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target"
 title = "3.6.2pre" >
   3.6 .2 pre <
@@ -1129,7 +1129,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target"
 title = "3.6.1" >
   3.6 .1 <
@@ -1155,7 +1155,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target"
 title = "3.6" >
   3.6 <
@@ -1181,7 +1181,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target"
 title = "3.5" >
   3.5 <
@@ -1207,7 +1207,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target"
 title = "3.4" >
   3.4 <
@@ -1233,7 +1233,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target"
 title = "3.3" >
   3.3 <
@@ -1259,7 +1259,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target"
 title = "3.2" >
   3.2 <
@@ -1285,7 +1285,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target"
 title = "3.1" >
   3.1 <
@@ -1311,7 +1311,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target"
 title = "2.2" >
   2.2 <
@@ -1337,7 +1337,7 @@ version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
 d = "M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z" / > < /svg> <
-<<<<<<< HEAD
+
 span class = "select-menu-item-text css-truncate-target"
 title = "2.1" >
   2.1 <
@@ -1380,7 +1380,7 @@ data - pjax
 data - hotkey = "t" >
   Find file <
   /a> <
-<<<<<<< HEAD
+
 button aria - label = "Copy file path to clipboard"
 class = "js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s"
 data - copied - hint = "Copied!"
@@ -1399,7 +1399,7 @@ type = "button" > Copy path < /button> <
 href = "/aFarkas/html5shiv" > < span > html5shiv < /span></a > < /span></span > < span class = "separator" > /</span > < span class = "js-path-segment" > < a class = "btn"
 href = "/aFarkas/html5shiv/tree/master/src" > < span > src < /span></a > < /span><span class="separator">/ < /span><strong class="final-path">html5shiv.js</strong >
   <
-<<<<<<< HEAD
+
   /div> < /
   div >
 =======
@@ -1417,7 +1417,7 @@ href = "/aFarkas/html5shiv/commit/48f27bbcdf47c392456fdaf7cc6584a6046f0e3d"
 data - pjax >
   48 f27bb <
   /a> <
-<<<<<<< HEAD
+
 relative - time datetime = "2015-07-20T20:03:31Z" > Jul 21, 2015 < /relative-time> < /
   span > <
 =======
@@ -1436,7 +1436,7 @@ width = "20" / >
 href = "/aFarkas"
 class = "user-mention"
 rel = "author" > aFarkas < /a> <
-<<<<<<< HEAD
+
 a class = "btn"
 href = "/aFarkas/html5shiv/commit/48f27bbcdf47c392456fdaf7cc6584a6046f0e3d"
 class = "message"
@@ -1463,7 +1463,7 @@ data - facebox = "#blob_contributors_box" >
 contributors
   <
   /button> <
-<<<<<<< HEAD
+
 a class = "avatar-link tooltipped tooltipped-s"
 =======
   a class = "avatar-link tooltipped tooltipped-s"
@@ -1474,7 +1474,7 @@ class = "avatar"
 height = "20"
 src = "https://avatars0.githubusercontent.com/u/188254?v=3&amp;s=40"
 width = "20" / > < /a> <
-<<<<<<< HEAD
+
 a class = "avatar-link tooltipped tooltipped-s"
 =======
   a class = "avatar-link tooltipped tooltipped-s"
@@ -1485,7 +1485,7 @@ class = "avatar"
 height = "20"
 src = "https://avatars2.githubusercontent.com/u/188426?v=3&amp;s=40"
 width = "20" / > < /a> <
-<<<<<<< HEAD
+
 a class = "avatar-link tooltipped tooltipped-s"
 =======
   a class = "avatar-link tooltipped tooltipped-s"
@@ -1496,7 +1496,7 @@ class = "avatar"
 height = "20"
 src = "https://avatars2.githubusercontent.com/u/4303?v=3&amp;s=40"
 width = "20" / > < /a> <
-<<<<<<< HEAD
+
 a class = "avatar-link tooltipped tooltipped-s"
 =======
   a class = "avatar-link tooltipped tooltipped-s"
@@ -1507,7 +1507,7 @@ class = "avatar"
 height = "20"
 src = "https://avatars3.githubusercontent.com/u/252054?v=3&amp;s=40"
 width = "20" / > < /a> <
-<<<<<<< HEAD
+
 a class = "avatar-link tooltipped tooltipped-s"
 =======
   a class = "avatar-link tooltipped tooltipped-s"
@@ -1518,7 +1518,7 @@ class = "avatar"
 height = "20"
 src = "https://avatars1.githubusercontent.com/u/39191?v=3&amp;s=40"
 width = "20" / > < /a> <
-<<<<<<< HEAD
+
 a class = "avatar-link tooltipped tooltipped-s"
 =======
   a class = "avatar-link tooltipped tooltipped-s"
@@ -1529,7 +1529,7 @@ class = "avatar"
 height = "20"
 src = "https://avatars3.githubusercontent.com/u/145197?v=3&amp;s=40"
 width = "20" / > < /a> <
-<<<<<<< HEAD
+
 a class = "avatar-link tooltipped tooltipped-s"
 =======
   a class = "avatar-link tooltipped tooltipped-s"
@@ -1540,7 +1540,7 @@ class = "avatar"
 height = "20"
 src = "https://avatars3.githubusercontent.com/u/81942?v=3&amp;s=40"
 width = "20" / > < /a> <
-<<<<<<< HEAD
+
 a class = "avatar-link tooltipped tooltipped-s"
 =======
   a class = "avatar-link tooltipped tooltipped-s"
@@ -1551,7 +1551,7 @@ class = "avatar"
 height = "20"
 src = "https://avatars2.githubusercontent.com/u/78602?v=3&amp;s=40"
 width = "20" / > < /a> <
-<<<<<<< HEAD
+
 a class = "avatar-link tooltipped tooltipped-s"
 =======
   a class = "avatar-link tooltipped tooltipped-s"
@@ -1562,7 +1562,7 @@ class = "avatar"
 height = "20"
 src = "https://avatars2.githubusercontent.com/u/2410560?v=3&amp;s=40"
 width = "20" / > < /a> <
-<<<<<<< HEAD
+
 a class = "avatar-link tooltipped tooltipped-s"
 =======
   a class = "avatar-link tooltipped tooltipped-s"
@@ -1573,7 +1573,7 @@ class = "avatar"
 height = "20"
 src = "https://avatars3.githubusercontent.com/u/166692?v=3&amp;s=40"
 width = "20" / > < /a> <
-<<<<<<< HEAD
+
 a class = "avatar-link tooltipped tooltipped-s"
 =======
   a class = "avatar-link tooltipped tooltipped-s"
@@ -1594,7 +1594,7 @@ style = "display:none" >
   <
   h2 class = "facebox-header"
 data - facebox - id = "facebox-header" > Users who have contributed to this file < /h2> <
-<<<<<<< HEAD
+
 ul class = "facebox-user-list"
 =======
   ul class = "facebox-user-list"
@@ -1609,7 +1609,7 @@ src = "https://avatars2.githubusercontent.com/u/188254?v=3&amp;s=48"
 width = "24" / >
   <
   a class = "btn"
-<<<<<<< HEAD
+
 href = "/aFarkas" > aFarkas < /a> < /
   li > <
 =======
@@ -1624,7 +1624,7 @@ src = "https://avatars0.githubusercontent.com/u/188426?v=3&amp;s=48"
 width = "24" / >
   <
   a class = "btn"
-<<<<<<< HEAD
+
 href = "/jonathantneal" > jonathantneal < /a> < /
   li > <
 =======
@@ -1639,7 +1639,7 @@ src = "https://avatars0.githubusercontent.com/u/4303?v=3&amp;s=48"
 width = "24" / >
   <
   a class = "btn"
-<<<<<<< HEAD
+
 href = "/jdalton" > jdalton < /a> < /
   li > <
 =======
@@ -1654,7 +1654,7 @@ src = "https://avatars1.githubusercontent.com/u/252054?v=3&amp;s=48"
 width = "24" / >
   <
   a class = "btn"
-<<<<<<< HEAD
+
 href = "/imjoshdean" > imjoshdean < /a> < /
   li > <
 =======
@@ -1669,7 +1669,7 @@ src = "https://avatars3.githubusercontent.com/u/39191?v=3&amp;s=48"
 width = "24" / >
   <
   a class = "btn"
-<<<<<<< HEAD
+
 href = "/paulirish" > paulirish < /a> < /
   li > <
 =======
@@ -1684,7 +1684,7 @@ src = "https://avatars1.githubusercontent.com/u/145197?v=3&amp;s=48"
 width = "24" / >
   <
   a class = "btn"
-<<<<<<< HEAD
+
 href = "/nelsonmenezes" > nelsonmenezes < /a> < /
   li > <
 =======
@@ -1699,7 +1699,7 @@ src = "https://avatars1.githubusercontent.com/u/81942?v=3&amp;s=48"
 width = "24" / >
   <
   a class = "btn"
-<<<<<<< HEAD
+
 href = "/mathiasbynens" > mathiasbynens < /a> < /
   li > <
 =======
@@ -1714,7 +1714,7 @@ src = "https://avatars0.githubusercontent.com/u/78602?v=3&amp;s=48"
 width = "24" / >
   <
   a class = "btn"
-<<<<<<< HEAD
+
 href = "/justinbmeyer" > justinbmeyer < /a> < /
   li > <
 =======
@@ -1729,7 +1729,7 @@ src = "https://avatars0.githubusercontent.com/u/2410560?v=3&amp;s=48"
 width = "24" / >
   <
   a class = "btn"
-<<<<<<< HEAD
+
 href = "/fakundo" > fakundo < /a> < /
   li > <
 =======
@@ -1744,7 +1744,7 @@ src = "https://avatars1.githubusercontent.com/u/166692?v=3&amp;s=48"
 width = "24" / >
   <
   a class = "btn"
-<<<<<<< HEAD
+
 href = "/claudioc" > claudioc < /a> < /
   li > <
 =======
@@ -1759,7 +1759,7 @@ src = "https://avatars3.githubusercontent.com/u/401422?v=3&amp;s=48"
 width = "24" / >
   <
   a class = "btn"
-<<<<<<< HEAD
+
 href = "/brianblakely" > brianblakely < /a> < /
   li > <
   /ul> < /
@@ -1786,7 +1786,7 @@ href = "/brianblakely" > brianblakely < /a> <
 href = "/aFarkas/html5shiv/raw/master/src/html5shiv.js"
 class = "btn btn-sm BtnGroup-item"
 id = "raw-url" > Raw < /a> <
-<<<<<<< HEAD
+
 a class = "btn"
 href = "/aFarkas/html5shiv/blame/master/src/html5shiv.js"
 class = "btn btn-sm js-update-url-with-hash BtnGroup-item"
@@ -1820,7 +1820,7 @@ height = "16"
 version = "1.1"
 viewBox = "0 0 16 16"
 width = "16" > < path fill - rule = "evenodd"
-<<<<<<< HEAD
+
 d = "M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z" / > < /svg> < /
   a >
 =======
@@ -1839,7 +1839,7 @@ height = "16"
 version = "1.1"
 viewBox = "0 0 14 16"
 width = "14" > < path fill - rule = "evenodd"
-<<<<<<< HEAD
+
 d = "M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z" / > < /svg> < /
   button > <
 =======
@@ -1856,7 +1856,7 @@ height = "16"
 version = "1.1"
 viewBox = "0 0 12 16"
 width = "12" > < path fill - rule = "evenodd"
-<<<<<<< HEAD
+
 d = "M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z" / > < /svg> < /
   button > <
 =======
@@ -1871,7 +1871,7 @@ d = "M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 
   span class = "file-info-divider" > < /span>
 10.1 KB
   <
-<<<<<<< HEAD
+
   /div> < /
   div >
 =======
@@ -1891,7 +1891,7 @@ data - tab - size = "8" >
   td id = "L1"
 class = "blob-num js-line-number"
 data - line - number = "1" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC1"
 =======
   td id = "LC1"
@@ -1906,7 +1906,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" >
         <tr>
           <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
           <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c">*/
-<<<<<<< HEAD
+
   <
   /span></td >
   <
@@ -1922,7 +1922,7 @@ tr >
   td id = "L4"
 class = "blob-num js-line-number"
 data - line - number = "4" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC4"
 =======
   td id = "LC4"
@@ -1965,7 +1965,7 @@ class = "blob-code blob-code-inner js-file-line" > ;
   td id = "LC8"
   class = "blob-code blob-code-inner js-file-line" >
   <
-<<<<<<< HEAD
+
   /td> < /
   tr > <
 =======
@@ -1999,7 +1999,7 @@ class = "blob-code blob-code-inner js-file-line" > ;
   td id = "LC11"
   class = "blob-code blob-code-inner js-file-line" >
   <
-<<<<<<< HEAD
+
   /td> < /
   tr > <
 =======
@@ -2022,7 +2022,7 @@ class = "blob-code blob-code-inner js-file-line" > ;
   data - line - number = "13" > < /td> <
   td id = "LC13"
   class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
-<<<<<<< HEAD
+
   var < /span> reSkip <span class="pl-k">=</span > < span class = "pl-sr" > < span class = "pl-pds" > /</span > < span class = "pl-k" > ^ < /span>&lt;<span class="pl-k">|</span > < span class = "pl-k" > ^ < /span>(?:button<span class="pl-k">|</span > map < span class = "pl-k" > | < /span>select<span class="pl-k">|</span > textarea < span class = "pl-k" > | < /span>object<span class="pl-k">|</span > iframe < span class = "pl-k" > | < /span>option<span class="pl-k">|</span > optgroup ) < span class = "pl-k" > $ < /span><span class="pl-pds">/ < /span>i</span > ; < /td> < /
 tr > <
   tr >
@@ -2035,7 +2035,7 @@ tr >
   td id = "L14"
 class = "blob-num js-line-number"
 data - line - number = "14" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC14"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -2053,7 +2053,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L15"
 class = "blob-num js-line-number"
 data - line - number = "15" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC15"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /** Not all elements can be cloned in IE **/ < /span></td >
   <
@@ -2070,7 +2070,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /** N
   td id = "L16"
 class = "blob-num js-line-number"
 data - line - number = "16" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC16"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   var < /span> saveClones <span class="pl-k">=</span > < span class = "pl-sr" > < span class = "pl-pds" > /</span > < span class = "pl-k" > ^ < /span>(?:a<span class="pl-k">|</span > b < span class = "pl-k" > | < /span>code<span class="pl-k">|</span > div < span class = "pl-k" > | < /span>fieldset<span class="pl-k">|</span > h1 < span class = "pl-k" > | < /span>h2<span class="pl-k">|</span > h3 < span class = "pl-k" > | < /span>h4<span class="pl-k">|</span > h5 < span class = "pl-k" > | < /span>h6<span class="pl-k">|</span > i < span class = "pl-k" > | < /span>label<span class="pl-k">|</span > li < span class = "pl-k" > | < /span>ol<span class="pl-k">|</span > p < span class = "pl-k" > | < /span>q<span class="pl-k">|</span > span < span class = "pl-k" > | < /span>strong<span class="pl-k">|</span > style < span class = "pl-k" > | < /span>table<span class="pl-k">|</span > tbody < span class = "pl-k" > | < /span>td<span class="pl-k">|</span > th < span class = "pl-k" > | < /span>tr<span class="pl-k">|</span > ul ) < span class = "pl-k" > $ < /span><span class="pl-pds">/ < /span>i</span > ; < /td> < /
@@ -2087,7 +2087,7 @@ tr >
   td id = "L17"
 class = "blob-num js-line-number"
 data - line - number = "17" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC17"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -2105,7 +2105,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L18"
 class = "blob-num js-line-number"
 data - line - number = "18" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC18"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /** Detect whether the browser supports default html5 styles */ < /span></td >
   <
@@ -2122,7 +2122,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /** D
   td id = "L19"
 class = "blob-num js-line-number"
 data - line - number = "19" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC19"
 =======
   td id = "LC19"
@@ -2131,7 +2131,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   var < /span> supportsHtml5Styles;</td >
   <
   /tr> <
-<<<<<<< HEAD
+
 tr >
 =======
   tr >
@@ -2140,7 +2140,7 @@ tr >
   td id = "L20"
 class = "blob-num js-line-number"
 data - line - number = "20" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC20"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -2158,7 +2158,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L21"
 class = "blob-num js-line-number"
 data - line - number = "21" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC21"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /** Name of the expando, to work with multiple documents or to re-shiv one document */ < /span></td >
   <
@@ -2175,7 +2175,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /** N
   td id = "L22"
 class = "blob-num js-line-number"
 data - line - number = "22" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC22"
 =======
   td id = "LC22"
@@ -2187,7 +2187,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
         <td id= "L23"
 class = "blob-num js-line-number"
 data - line - number = "23" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC23"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -2205,7 +2205,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L24"
 class = "blob-num js-line-number"
 data - line - number = "24" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC24"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /** The id for the the documents expando */ < /span></td >
   <
@@ -2222,7 +2222,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /** T
   td id = "L25"
 class = "blob-num js-line-number"
 data - line - number = "25" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC25"
 =======
   td id = "LC25"
@@ -2231,7 +2231,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   var < /span> expanID <span class="pl-k">=</span > < span class = "pl-c1" > 0 < /span>;</td >
   <
   /tr> <
-<<<<<<< HEAD
+
 tr >
 =======
   tr >
@@ -2240,7 +2240,7 @@ tr >
   td id = "L26"
 class = "blob-num js-line-number"
 data - line - number = "26" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC26"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -2258,7 +2258,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L27"
 class = "blob-num js-line-number"
 data - line - number = "27" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC27"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /** Cached data for each document */ < /span></td >
   <
@@ -2275,7 +2275,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /** C
   td id = "L28"
 class = "blob-num js-line-number"
 data - line - number = "28" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC28"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   var < /span> expandoData <span class="pl-k">=</span > {}; < /td> < /
@@ -2292,7 +2292,7 @@ tr >
   td id = "L29"
 class = "blob-num js-line-number"
 data - line - number = "29" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC29"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -2310,7 +2310,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L30"
 class = "blob-num js-line-number"
 data - line - number = "30" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC30"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /** Detect whether the browser supports unknown elements */ < /span></td >
   <
@@ -2327,7 +2327,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /** D
   td id = "L31"
 class = "blob-num js-line-number"
 data - line - number = "31" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC31"
 =======
   td id = "LC31"
@@ -2336,7 +2336,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   var < /span> supportsUnknownElements;</td >
   <
   /tr> <
-<<<<<<< HEAD
+
 tr >
 =======
   tr >
@@ -2345,7 +2345,7 @@ tr >
   td id = "L32"
 class = "blob-num js-line-number"
 data - line - number = "32" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC32"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -2363,7 +2363,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L33"
 class = "blob-num js-line-number"
 data - line - number = "33" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC33"
 =======
   td id = "LC33"
@@ -2425,7 +2425,7 @@ class = "blob-code blob-code-inner js-file-line" > ( < span class = "pl-k" > fun
       td id = "LC39"
       class = "blob-code blob-code-inner js-file-line" >
       <
-<<<<<<< HEAD
+
       /td> < /
       tr > <
 =======
@@ -2439,7 +2439,7 @@ class = "blob-code blob-code-inner js-file-line" > ( < span class = "pl-k" > fun
       data - line - number = "40" > < /td> <
       td id = "LC40"
       class = "blob-code blob-code-inner js-file-line" > supportsUnknownElements < span class = "pl-k" >= < /span> <span class="pl-smi">a</span > . < span class = "pl-c1" > childNodes < /span>.<span class="pl-c1">length</span > < span class = "pl-k" >= = < /span> <span class="pl-c1">1</span > < span class = "pl-k" > || < /span> (<span class="pl-k">function</span > () {
-<<<<<<< HEAD
+
         <
         /td> < /
         tr > <
@@ -2453,7 +2453,7 @@ class = "blob-code blob-code-inner js-file-line" > ( < span class = "pl-k" > fun
           td id = "L41"
         class = "blob-num js-line-number"
         data - line - number = "41" > < /td> <
-<<<<<<< HEAD
+
         td id = "LC41"
         class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < span class = "pl-c" > //</span> assign a false positive if unable to shiv</span></td>
           <
@@ -2470,7 +2470,7 @@ class = "blob-code blob-code-inner js-file-line" > ( < span class = "pl-k" > fun
           td id = "L42"
         class = "blob-num js-line-number"
         data - line - number = "42" > < /td> <
-<<<<<<< HEAD
+
         td id = "LC42"
 =======
           td id = "LC42"
@@ -2483,7 +2483,7 @@ class = "blob-code blob-code-inner js-file-line" > ( < span class = "pl-k" > fun
           data - line - number = "43" > < /td> <
           td id = "LC43"
           class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
-<<<<<<< HEAD
+
           var < /span> frag <span class="pl-k">=</span > < span class = "pl-c1" > document < /span>.<span class="pl-c1">createDocumentFragment</span > (); < /td> < /
           tr > <
 =======
@@ -2500,7 +2500,7 @@ class = "blob-code blob-code-inner js-file-line" > ( < span class = "pl-k" > fun
           return </span> (</td >
             <
             /tr> <
-<<<<<<< HEAD
+
           tr >
           <
           td id = "L45"
@@ -2537,7 +2537,7 @@ class = "blob-code blob-code-inner js-file-line" > ( < span class = "pl-k" > fun
           class = "blob-num js-line-number"
           data - line - number = "48" > < /td> <
           td id = "LC48"
-<<<<<<< HEAD
+
           class = "blob-code blob-code-inner js-file-line" > ); < /td> < /
         tr > <
           tr >
@@ -2550,7 +2550,7 @@ class = "blob-code blob-code-inner js-file-line" > ( < span class = "pl-k" > fun
           td id = "L49"
         class = "blob-num js-line-number"
         data - line - number = "49" > < /td> <
-<<<<<<< HEAD
+
         td id = "LC49"
         class = "blob-code blob-code-inner js-file-line" >
       }() ); < /td> < /
@@ -2572,7 +2572,7 @@ class = "blob-code blob-code-inner js-file-line" > ( < span class = "pl-k" > fun
   catch < /span>(e) {</td >
   <
   /tr> <
-<<<<<<< HEAD
+
 tr >
 =======
   tr >
@@ -2581,7 +2581,7 @@ tr >
   td id = "L51"
 class = "blob-num js-line-number"
 data - line - number = "51" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC51"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < span class = "pl-c" > //</span> assign a false positive if detection fails =&gt; unable to shiv</span></td>
   <
@@ -2598,7 +2598,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < spa
   td id = "L52"
 class = "blob-num js-line-number"
 data - line - number = "52" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC52"
 class = "blob-code blob-code-inner js-file-line" > supportsHtml5Styles < span class = "pl-k" >= < /span> <span class="pl-c1">true</span > ; < /td> < /
 tr > <
@@ -2613,7 +2613,7 @@ tr >
   td id = "L53"
 class = "blob-num js-line-number"
 data - line - number = "53" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC53"
 class = "blob-code blob-code-inner js-file-line" > supportsUnknownElements < span class = "pl-k" >= < /span> <span class="pl-c1">true</span > ; < /td> < /
 tr > <
@@ -2628,7 +2628,7 @@ tr >
   td id = "L54"
 class = "blob-num js-line-number"
 data - line - number = "54" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC54"
 class = "blob-code blob-code-inner js-file-line" >
 } < /td> < /
@@ -2645,7 +2645,7 @@ tr >
   td id = "L55"
 class = "blob-num js-line-number"
 data - line - number = "55" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC55"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -2663,7 +2663,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L56"
 class = "blob-num js-line-number"
 data - line - number = "56" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC56"
 class = "blob-code blob-code-inner js-file-line" >
 }() ); < /td> < /
@@ -2680,7 +2680,7 @@ tr >
   td id = "L57"
 class = "blob-num js-line-number"
 data - line - number = "57" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC57"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -2698,7 +2698,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L58"
 class = "blob-num js-line-number"
 data - line - number = "58" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC58"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /*--------------------------------------------------------------------------*/ < /span></td >
   <
@@ -2715,7 +2715,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /*---
   td id = "L59"
 class = "blob-num js-line-number"
 data - line - number = "59" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC59"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -2733,7 +2733,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L60"
 class = "blob-num js-line-number"
 data - line - number = "60" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC60"
 =======
   td id = "LC60"
@@ -2764,7 +2764,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" >
         <tr>
           <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
           <td id="LC66" class="blob-code blob-code-inner js-file-line"><span class="pl-c">   */
-<<<<<<< HEAD
+
   <
   /span></td >
   <
@@ -2780,7 +2780,7 @@ tr >
   td id = "L67"
 class = "blob-num js-line-number"
 data - line - number = "67" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC67"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > function < /span> <span class="pl-en">addStyleSheet</span > ( < span class = "pl-smi" > ownerDocument < /span>, <span class="pl-smi">cssText</span > ) {
     <
@@ -2798,7 +2798,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L68"
     class = "blob-num js-line-number"
     data - line - number = "68" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC68"
 =======
       td id = "LC68"
@@ -2811,7 +2811,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
         class = "blob-num js-line-number"
         data - line - number = "69" > < /td> <
         td id = "LC69"
-<<<<<<< HEAD
+
         class = "blob-code blob-code-inner js-file-line" > parent < span class = "pl-k" >= < /span> <span class="pl-smi">ownerDocument</span > . < span class = "pl-c1" > getElementsByTagName < /span>(<span class="pl-s"><span class="pl-pds">&#39;</span > head < span class = "pl-pds" > & #39;</span></span>)[<span class= "pl-c1" > 0 < /span>] <span class="pl-k">||</span > < span class = "pl-smi" > ownerDocument < /span>.<span class="pl-c1">documentElement</span > ; < /td> < /
         tr > <
 =======
@@ -2826,7 +2826,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
         td id = "LC70"
         class = "blob-code blob-code-inner js-file-line" >
         <
-<<<<<<< HEAD
+
         /td> < /
         tr > <
 =======
@@ -2850,7 +2850,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
         return </span> <span class="pl-smi">parent</span > . < span class = "pl-c1" > insertBefore < /span>(<span class="pl-smi">p</span > . < span class = "pl-c1" > lastChild < /span>, <span class="pl-smi">parent</span > . < span class = "pl-c1" > firstChild < /span>);</td >
           <
           /tr> <
-<<<<<<< HEAD
+
         tr >
         <
         td id = "L73"
@@ -2863,7 +2863,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
         data - line - number = "73" > < /td> <
         td id = "LC73"
         class = "blob-code blob-code-inner js-file-line" >
-<<<<<<< HEAD
+
       } < /td> < /
       tr > <
 =======
@@ -2875,7 +2875,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L74"
     class = "blob-num js-line-number"
     data - line - number = "74" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC74"
     class = "blob-code blob-code-inner js-file-line" >
       <
@@ -2893,7 +2893,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L75"
     class = "blob-num js-line-number"
     data - line - number = "75" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC75"
 =======
       td id = "LC75"
@@ -2916,7 +2916,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
             <tr>
               <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
               <td id="LC79" class="blob-code blob-code-inner js-file-line"><span class="pl-c">   */
-<<<<<<< HEAD
+
       <
       /span></td >
       <
@@ -2932,7 +2932,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L80"
     class = "blob-num js-line-number"
     data - line - number = "80" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC80"
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > function < /span> <span class="pl-en">getElements</span > () {
         <
@@ -2950,7 +2950,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
           td id = "L81"
         class = "blob-num js-line-number"
         data - line - number = "81" > < /td> <
-<<<<<<< HEAD
+
         td id = "LC81"
         class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
           var < /span> elements <span class="pl-k">=</span > < span class = "pl-smi" > html5 < /span>.<span class="pl-c1">elements</span > ; < /td> < /
@@ -2967,7 +2967,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
           td id = "L82"
         class = "blob-num js-line-number"
         data - line - number = "82" > < /td> <
-<<<<<<< HEAD
+
         td id = "LC82"
 =======
           td id = "LC82"
@@ -2976,7 +2976,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
           return </span> <span class="pl-k">typeof</span > elements < span class = "pl-k" >= = < /span> <span class="pl-s"><span class="pl-pds">&#39;</span > string < span class = "pl-pds" > & #39;</span></span> <span class= "pl-k" > ? < /span> <span class="pl-smi">elements</span > . < span class = "pl-c1" > split < /span>(<span class="pl-s"><span class="pl-pds">&#39;</span > < span class = "pl-pds" > & #39;</span></span>) <span class= "pl-k" > : < /span> elements;</td >
             <
             /tr> <
-<<<<<<< HEAD
+
         tr >
           <
           td id = "L83"
@@ -3002,7 +3002,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L84"
     class = "blob-num js-line-number"
     data - line - number = "84" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC84"
     class = "blob-code blob-code-inner js-file-line" >
       <
@@ -3020,7 +3020,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L85"
     class = "blob-num js-line-number"
     data - line - number = "85" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC85"
 =======
       td id = "LC85"
@@ -3047,7 +3047,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
             <tr>
               <td id="L90" class="blob-num js-line-number" data-line-number="90"></td>
               <td id="LC90" class="blob-code blob-code-inner js-file-line"><span class="pl-c">   */
-<<<<<<< HEAD
+
       <
       /span></td >
       <
@@ -3063,7 +3063,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L91"
     class = "blob-num js-line-number"
     data - line - number = "91" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC91"
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > function < /span> <span class="pl-en">addElements</span > ( < span class = "pl-smi" > newElements < /span>, <span class="pl-smi">ownerDocument</span > ) {
         <
@@ -3081,7 +3081,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
           td id = "L92"
         class = "blob-num js-line-number"
         data - line - number = "92" > < /td> <
-<<<<<<< HEAD
+
         td id = "LC92"
         class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
           var < /span> elements <span class="pl-k">=</span > < span class = "pl-smi" > html5 < /span>.<span class="pl-c1">elements</span > ; < /td> < /
@@ -3098,7 +3098,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
           td id = "L93"
         class = "blob-num js-line-number"
         data - line - number = "93" > < /td> <
-<<<<<<< HEAD
+
         td id = "LC93"
 =======
           td id = "LC93"
@@ -3110,7 +3110,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
         <td id= "L94"
         class = "blob-num js-line-number"
         data - line - number = "94" > < /td> <
-<<<<<<< HEAD
+
         td id = "LC94"
 =======
           td id = "LC94"
@@ -3121,7 +3121,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
         <td id= "L95"
         class = "blob-num js-line-number"
         data - line - number = "95" > < /td> <
-<<<<<<< HEAD
+
         td id = "LC95"
         class = "blob-code blob-code-inner js-file-line" >
       } < /td> < /
@@ -3137,7 +3137,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L96"
     class = "blob-num js-line-number"
     data - line - number = "96" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC96"
 =======
       td id = "LC96"
@@ -3149,7 +3149,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
         <td id= "L97"
     class = "blob-num js-line-number"
     data - line - number = "97" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC97"
 =======
       td id = "LC97"
@@ -3160,7 +3160,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
         <td id= "L98"
     class = "blob-num js-line-number"
     data - line - number = "98" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC98"
     class = "blob-code blob-code-inner js-file-line" >
   } < /td> < /
@@ -3176,7 +3176,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
   td id = "L99"
 class = "blob-num js-line-number"
 data - line - number = "99" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC99"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > html5 < /span>.<span class="pl-c1">elements</span > < span class = "pl-k" >= < /span> elements <span class="pl-k">+</span > < span class = "pl-s" > < span class = "pl-pds" > & #39;</span> <span class= "pl-pds" > & #39;</span></span><span class= "pl-k" > + < /span> newElements;</td >
   <
@@ -3193,7 +3193,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > htm
   td id = "L100"
 class = "blob-num js-line-number"
 data - line - number = "100" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC100"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-en" > shivDocument < /span>(ownerDocument);</td >
   <
@@ -3210,7 +3210,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-en" > shiv
   td id = "L101"
 class = "blob-num js-line-number"
 data - line - number = "101" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC101"
 class = "blob-code blob-code-inner js-file-line" >
 } < /td> < /
@@ -3227,7 +3227,7 @@ tr >
   td id = "L102"
 class = "blob-num js-line-number"
 data - line - number = "102" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC102"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -3245,7 +3245,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L103"
 class = "blob-num js-line-number"
 data - line - number = "103" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC103"
 =======
   td id = "LC103"
@@ -3272,7 +3272,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" >
         <tr>
           <td id="L108" class="blob-num js-line-number" data-line-number="108"></td>
           <td id="LC108" class="blob-code blob-code-inner js-file-line"><span class="pl-c">   */
-<<<<<<< HEAD
+
   <
   /span></td >
   <
@@ -3288,7 +3288,7 @@ tr >
   td id = "L109"
 class = "blob-num js-line-number"
 data - line - number = "109" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC109"
 =======
   td id = "LC109"
@@ -3303,7 +3303,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
     data - line - number = "110" > < /td> <
     td id = "LC110"
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
-<<<<<<< HEAD
+
     var < /span> data <span class="pl-k">=</span > expandoData[ ownerDocument[ expando ] ]; < /td> < /
     tr > <
 =======
@@ -3318,7 +3318,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
     td id = "LC111"
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     if </span> (<span class="pl-k">!</span > data ) {
-<<<<<<< HEAD
+
     <
     /td> < /
     tr > <
@@ -3332,7 +3332,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L112"
     class = "blob-num js-line-number"
     data - line - number = "112" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC112"
     class = "blob-code blob-code-inner js-file-line" > data < span class = "pl-k" >= < /span> {};</td >
       <
@@ -3349,7 +3349,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L113"
     class = "blob-num js-line-number"
     data - line - number = "113" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC113"
     class = "blob-code blob-code-inner js-file-line" > expanID < span class = "pl-k" > ++ < /span>;</td >
       <
@@ -3366,7 +3366,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L114"
     class = "blob-num js-line-number"
     data - line - number = "114" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC114"
     class = "blob-code blob-code-inner js-file-line" > ownerDocument[ expando ] < span class = "pl-k" >= < /span> expanID;</td >
       <
@@ -3383,7 +3383,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L115"
     class = "blob-num js-line-number"
     data - line - number = "115" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC115"
     class = "blob-code blob-code-inner js-file-line" > expandoData[ expanID ] < span class = "pl-k" >= < /span> data;</td >
       <
@@ -3400,7 +3400,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L116"
     class = "blob-num js-line-number"
     data - line - number = "116" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC116"
     class = "blob-code blob-code-inner js-file-line" >
   } < /td> < /
@@ -3416,7 +3416,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
   td id = "L117"
 class = "blob-num js-line-number"
 data - line - number = "117" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC117"
 =======
   td id = "LC117"
@@ -3425,7 +3425,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   return </span> data;</td >
     <
     /tr> <
-<<<<<<< HEAD
+
 tr >
   <
   td id = "L118"
@@ -3452,7 +3452,7 @@ tr >
   td id = "L119"
 class = "blob-num js-line-number"
 data - line - number = "119" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC119"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -3470,7 +3470,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L120"
 class = "blob-num js-line-number"
 data - line - number = "120" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC120"
 =======
   td id = "LC120"
@@ -3501,7 +3501,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" >
         <tr>
           <td id="L126" class="blob-num js-line-number" data-line-number="126"></td>
           <td id="LC126" class="blob-code blob-code-inner js-file-line"><span class="pl-c">   */
-<<<<<<< HEAD
+
   <
   /span></td >
   <
@@ -3517,7 +3517,7 @@ tr >
   td id = "L127"
 class = "blob-num js-line-number"
 data - line - number = "127" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC127"
 =======
   td id = "LC127"
@@ -3533,7 +3533,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
     td id = "LC128"
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     if </span> (<span class="pl-k">!</span > ownerDocument ) {
-<<<<<<< HEAD
+
     <
     /td> < /
     tr > <
@@ -3547,7 +3547,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L129"
     class = "blob-num js-line-number"
     data - line - number = "129" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC129"
     class = "blob-code blob-code-inner js-file-line" > ownerDocument < span class = "pl-k" >= < /span> <span class="pl-c1">document</span > ; < /td> < /
     tr > <
@@ -3562,7 +3562,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L130"
     class = "blob-num js-line-number"
     data - line - number = "130" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC130"
     class = "blob-code blob-code-inner js-file-line" >
   } < /td> < /
@@ -3578,7 +3578,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
   td id = "L131"
 class = "blob-num js-line-number"
 data - line - number = "131" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC131"
 =======
   td id = "LC131"
@@ -3592,7 +3592,7 @@ tr >
   td id = "L132"
 class = "blob-num js-line-number"
 data - line - number = "132" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC132"
 =======
   td id = "LC132"
@@ -3601,7 +3601,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   return </span> <span class="pl-smi">ownerDocument</span > . < span class = "pl-c1" > createElement < /span>(nodeName);</td >
     <
     /tr> <
-<<<<<<< HEAD
+
 tr >
   <
   td id = "L133"
@@ -3628,7 +3628,7 @@ tr >
   td id = "L134"
 class = "blob-num js-line-number"
 data - line - number = "134" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC134"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   if </span> (<span class="pl-k">!</span > data ) {
@@ -3648,7 +3648,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     td id = "L135"
   class = "blob-num js-line-number"
   data - line - number = "135" > < /td> <
-<<<<<<< HEAD
+
   td id = "LC135"
   class = "blob-code blob-code-inner js-file-line" > data < span class = "pl-k" >= < /span> <span class="pl-en">getExpandoData</span > ( ownerDocument ); < /td> < /
   tr > <
@@ -3663,7 +3663,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     td id = "L136"
   class = "blob-num js-line-number"
   data - line - number = "136" > < /td> <
-<<<<<<< HEAD
+
   td id = "LC136"
   class = "blob-code blob-code-inner js-file-line" >
 } < /td> < /
@@ -3680,7 +3680,7 @@ tr >
   td id = "L137"
 class = "blob-num js-line-number"
 data - line - number = "137" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC137"
 =======
   td id = "LC137"
@@ -3689,7 +3689,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   var < /span> node;</td >
   <
   /tr> <
-<<<<<<< HEAD
+
 tr >
 =======
   tr >
@@ -3698,7 +3698,7 @@ tr >
   td id = "L138"
 class = "blob-num js-line-number"
 data - line - number = "138" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC138"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -3716,7 +3716,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L139"
 class = "blob-num js-line-number"
 data - line - number = "139" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC139"
 =======
   td id = "LC139"
@@ -3725,7 +3725,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   if </span> (<span class="pl-smi">data</span > . < span class = "pl-smi" > cache < /span>[nodeName]) {</td >
   <
   /tr> <
-<<<<<<< HEAD
+
 tr >
 =======
   tr >
@@ -3734,7 +3734,7 @@ tr >
   td id = "L140"
 class = "blob-num js-line-number"
 data - line - number = "140" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC140"
 class = "blob-code blob-code-inner js-file-line" > node < span class = "pl-k" >= < /span> <span class="pl-smi">data</span > . < span class = "pl-smi" > cache < /span>[nodeName].<span class="pl-c1">cloneNode</span > (); < /td> < /
 tr > <
@@ -3749,7 +3749,7 @@ tr >
   td id = "L141"
 class = "blob-num js-line-number"
 data - line - number = "141" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC141"
 class = "blob-code blob-code-inner js-file-line" >
 } < span class = "pl-k" >
@@ -3771,7 +3771,7 @@ class = "blob-code blob-code-inner js-file-line" >
         td id = "L142"
       class = "blob-num js-line-number"
       data - line - number = "142" > < /td> <
-<<<<<<< HEAD
+
       td id = "LC142"
       class = "blob-code blob-code-inner js-file-line" > node < span class = "pl-k" >= < /span> (<span class="pl-smi">data</span > . < span class = "pl-smi" > cache < /span>[nodeName] <span class="pl-k">=</span > < span class = "pl-smi" > data < /span>.<span class="pl-en">createElem</span > ( nodeName ) ). < span class = "pl-c1" > cloneNode < /span>();</td >
     <
@@ -3799,7 +3799,7 @@ class = "blob-code blob-code-inner js-file-line" >
   else </span> {</td >
     <
     /tr> <
-<<<<<<< HEAD
+
 tr >
   <
   td id = "L144"
@@ -3826,7 +3826,7 @@ class = "blob-code blob-code-inner js-file-line" > node < span class = "pl-k" >=
   td id = "L145"
 class = "blob-num js-line-number"
 data - line - number = "145" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC145"
 class = "blob-code blob-code-inner js-file-line" >
 } < /td> < /
@@ -3843,7 +3843,7 @@ tr >
   td id = "L146"
 class = "blob-num js-line-number"
 data - line - number = "146" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC146"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -3861,7 +3861,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L147"
 class = "blob-num js-line-number"
 data - line - number = "147" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC147"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < span class = "pl-c" > //</span> Avoid adding some elements to fragments in IE &lt; 9 because</span></td>
   <
@@ -3878,7 +3878,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < spa
   td id = "L148"
 class = "blob-num js-line-number"
 data - line - number = "148" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC148"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < span class = "pl-c" > //</span> * Attributes like `name` or `type` cannot be set/changed once an element</span></td>
   <
@@ -3895,7 +3895,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < spa
   td id = "L149"
 class = "blob-num js-line-number"
 data - line - number = "149" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC149"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < span class = "pl-c" > //</span>   is inserted into a document/fragment</span></td>
   <
@@ -3912,7 +3912,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < spa
   td id = "L150"
 class = "blob-num js-line-number"
 data - line - number = "150" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC150"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < span class = "pl-c" > //</span> * Link elements with `src` attributes that are inaccessible, as with</span></td>
   <
@@ -3929,7 +3929,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < spa
   td id = "L151"
 class = "blob-num js-line-number"
 data - line - number = "151" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC151"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < span class = "pl-c" > //</span>   a 403 response, will cause the tab/window to crash</span></td>
   <
@@ -3946,7 +3946,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < spa
   td id = "L152"
 class = "blob-num js-line-number"
 data - line - number = "152" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC152"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < span class = "pl-c" > //</span> * Script elements appended to fragments will execute when their `src`</span></td>
   <
@@ -3963,7 +3963,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < spa
   td id = "L153"
 class = "blob-num js-line-number"
 data - line - number = "153" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC153"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < span class = "pl-c" > //</span>   or `text` property is set</span></td>
   <
@@ -3980,7 +3980,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < spa
   td id = "L154"
 class = "blob-num js-line-number"
 data - line - number = "154" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC154"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   return </span> <span class="pl-smi">node</span > . < span class = "pl-smi" > canHaveChildren < /span> <span class="pl-k">&amp;&amp;</span > < span class = "pl-k" > ! < /span><span class="pl-smi">reSkip</span > . < span class = "pl-c1" > test < /span>(nodeName) <span class="pl-k">&amp;&amp;</span > < span class = "pl-k" > ! < /span><span class="pl-smi">node</span > . < span class = "pl-smi" > tagUrn < /span> <span class="pl-k">?</span > < span class = "pl-smi" > data < /span>.<span class="pl-smi">frag</span > . < span class = "pl-c1" > appendChild < /span>(node) <span class="pl-k">:</span > node; < /td> < /
@@ -3997,7 +3997,7 @@ tr >
   td id = "L155"
 class = "blob-num js-line-number"
 data - line - number = "155" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC155"
 class = "blob-code blob-code-inner js-file-line" >
 } < /td> < /
@@ -4014,7 +4014,7 @@ tr >
   td id = "L156"
 class = "blob-num js-line-number"
 data - line - number = "156" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC156"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -4032,7 +4032,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L157"
 class = "blob-num js-line-number"
 data - line - number = "157" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC157"
 =======
   td id = "LC157"
@@ -4059,7 +4059,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" >
         <tr>
           <td id="L162" class="blob-num js-line-number" data-line-number="162"></td>
           <td id="LC162" class="blob-code blob-code-inner js-file-line"><span class="pl-c">   */
-<<<<<<< HEAD
+
   <
   /span></td >
   <
@@ -4075,7 +4075,7 @@ tr >
   td id = "L163"
 class = "blob-num js-line-number"
 data - line - number = "163" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC163"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > function < /span> <span class="pl-en">createDocumentFragment</span > ( < span class = "pl-smi" > ownerDocument < /span>, <span class="pl-smi">data</span > ) {
     <
@@ -4093,7 +4093,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L164"
     class = "blob-num js-line-number"
     data - line - number = "164" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC164"
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
       if </span> (<span class="pl-k">!</span > ownerDocument ) {
@@ -4113,7 +4113,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L165"
     class = "blob-num js-line-number"
     data - line - number = "165" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC165"
     class = "blob-code blob-code-inner js-file-line" > ownerDocument < span class = "pl-k" >= < /span> <span class="pl-c1">document</span > ; < /td> < /
     tr > <
@@ -4128,7 +4128,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L166"
     class = "blob-num js-line-number"
     data - line - number = "166" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC166"
     class = "blob-code blob-code-inner js-file-line" >
   } < /td> < /
@@ -4144,7 +4144,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
   td id = "L167"
 class = "blob-num js-line-number"
 data - line - number = "167" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC167"
 =======
   td id = "LC167"
@@ -4158,7 +4158,7 @@ tr >
   td id = "L168"
 class = "blob-num js-line-number"
 data - line - number = "168" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC168"
 =======
   td id = "LC168"
@@ -4167,7 +4167,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   return </span> <span class="pl-smi">ownerDocument</span > . < span class = "pl-c1" > createDocumentFragment < /span>();</td >
     <
     /tr> <
-<<<<<<< HEAD
+
 tr >
   <
   td id = "L169"
@@ -4194,7 +4194,7 @@ tr >
   td id = "L170"
 class = "blob-num js-line-number"
 data - line - number = "170" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC170"
 class = "blob-code blob-code-inner js-file-line" > data < span class = "pl-k" >= < /span> data <span class="pl-k">||</span > < span class = "pl-en" > getExpandoData < /span>(ownerDocument);</td >
   <
@@ -4211,7 +4211,7 @@ class = "blob-code blob-code-inner js-file-line" > data < span class = "pl-k" >=
   td id = "L171"
 class = "blob-num js-line-number"
 data - line - number = "171" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC171"
 =======
   td id = "LC171"
@@ -4220,7 +4220,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   var < /span> clone <span class="pl-k">=</span > < span class = "pl-smi" > data < /span>.<span class="pl-smi">frag</span > . < span class = "pl-c1" > cloneNode < /span>(),</td >
   <
   /tr> <
-<<<<<<< HEAD
+
 tr >
 =======
   tr >
@@ -4229,7 +4229,7 @@ tr >
   td id = "L172"
 class = "blob-num js-line-number"
 data - line - number = "172" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC172"
 class = "blob-code blob-code-inner js-file-line" > i < span class = "pl-k" >= < /span> <span class="pl-c1">0</span > , < /td> < /
   tr > <
@@ -4243,7 +4243,7 @@ class = "blob-code blob-code-inner js-file-line" > i < span class = "pl-k" >= < 
   td id = "L173"
 class = "blob-num js-line-number"
 data - line - number = "173" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC173"
 class = "blob-code blob-code-inner js-file-line" > elems < span class = "pl-k" >= < /span> <span class="pl-en">getElements</span > (), < /td> < /
   tr > <
@@ -4257,7 +4257,7 @@ class = "blob-code blob-code-inner js-file-line" > elems < span class = "pl-k" >
   td id = "L174"
 class = "blob-num js-line-number"
 data - line - number = "174" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC174"
 class = "blob-code blob-code-inner js-file-line" > l < span class = "pl-k" >= < /span> <span class="pl-smi">elems</span > . < span class = "pl-c1" > length < /span>;</td >
   <
@@ -4274,7 +4274,7 @@ class = "blob-code blob-code-inner js-file-line" > l < span class = "pl-k" >= < 
   td id = "L175"
 class = "blob-num js-line-number"
 data - line - number = "175" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC175"
 =======
   td id = "LC175"
@@ -4284,7 +4284,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
 i < span class = "pl-k" > ++ < /span>){</td >
   <
   /tr> <
-<<<<<<< HEAD
+
 tr >
 =======
   tr >
@@ -4293,7 +4293,7 @@ tr >
   td id = "L176"
 class = "blob-num js-line-number"
 data - line - number = "176" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC176"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > clone < /span>.<span class="pl-c1">createElement</span > ( elems[ i ] ); < /td> < /
 tr > <
@@ -4308,7 +4308,7 @@ tr >
   td id = "L177"
 class = "blob-num js-line-number"
 data - line - number = "177" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC177"
 class = "blob-code blob-code-inner js-file-line" >
 } < /td> < /
@@ -4325,7 +4325,7 @@ tr >
   td id = "L178"
 class = "blob-num js-line-number"
 data - line - number = "178" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC178"
 =======
   td id = "LC178"
@@ -4334,7 +4334,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   return </span> clone;</td >
     <
     /tr> <
-<<<<<<< HEAD
+
 tr >
   <
   td id = "L179"
@@ -4361,7 +4361,7 @@ tr >
   td id = "L180"
 class = "blob-num js-line-number"
 data - line - number = "180" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC180"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -4379,7 +4379,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L181"
 class = "blob-num js-line-number"
 data - line - number = "181" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC181"
 =======
   td id = "LC181"
@@ -4406,7 +4406,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" >
         <tr>
           <td id="L186" class="blob-num js-line-number" data-line-number="186"></td>
           <td id="LC186" class="blob-code blob-code-inner js-file-line"><span class="pl-c">   */
-<<<<<<< HEAD
+
   <
   /span></td >
   <
@@ -4422,7 +4422,7 @@ tr >
   td id = "L187"
 class = "blob-num js-line-number"
 data - line - number = "187" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC187"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > function < /span> <span class="pl-en">shivMethods</span > ( < span class = "pl-smi" > ownerDocument < /span>, <span class="pl-smi">data</span > ) {
     <
@@ -4440,7 +4440,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L188"
     class = "blob-num js-line-number"
     data - line - number = "188" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC188"
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
       if </span> (<span class="pl-k">!</span > < span class = "pl-smi" > data < /span>.<span class="pl-smi">cache</span > ) {
@@ -4460,7 +4460,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L189"
     class = "blob-num js-line-number"
     data - line - number = "189" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC189"
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > data < /span>.<span class="pl-smi">cache</span > < span class = "pl-k" >= < /span> {};</td >
       <
@@ -4477,7 +4477,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L190"
     class = "blob-num js-line-number"
     data - line - number = "190" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC190"
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > data < /span>.<span class="pl-smi">createElem</span > < span class = "pl-k" >= < /span> <span class="pl-smi">ownerDocument</span > . < span class = "pl-smi" > createElement < /span>;</td >
       <
@@ -4494,7 +4494,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L191"
     class = "blob-num js-line-number"
     data - line - number = "191" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC191"
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > data < /span>.<span class="pl-smi">createFrag</span > < span class = "pl-k" >= < /span> <span class="pl-smi">ownerDocument</span > . < span class = "pl-smi" > createDocumentFragment < /span>;</td >
       <
@@ -4511,7 +4511,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L192"
     class = "blob-num js-line-number"
     data - line - number = "192" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC192"
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > data < /span>.<span class="pl-smi">frag</span > < span class = "pl-k" >= < /span> <span class="pl-smi">data</span > . < span class = "pl-en" > createFrag < /span>();</td >
       <
@@ -4528,7 +4528,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L193"
     class = "blob-num js-line-number"
     data - line - number = "193" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC193"
     class = "blob-code blob-code-inner js-file-line" >
   } < /td> < /
@@ -4544,7 +4544,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
   td id = "L194"
 class = "blob-num js-line-number"
 data - line - number = "194" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC194"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -4562,7 +4562,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L195"
 class = "blob-num js-line-number"
 data - line - number = "195" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC195"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -4580,7 +4580,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L196"
 class = "blob-num js-line-number"
 data - line - number = "196" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC196"
 =======
   td id = "LC196"
@@ -4605,7 +4605,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > own
     td id = "LC198"
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     if </span> (<span class="pl-k">!</span > < span class = "pl-smi" > html5 < /span>.<span class="pl-smi">shivMethods</span > ) {
-<<<<<<< HEAD
+
     <
     /td> < /
     tr > <
@@ -4619,7 +4619,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > own
       td id = "L199"
     class = "blob-num js-line-number"
     data - line - number = "199" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC199"
 =======
       td id = "LC199"
@@ -4628,7 +4628,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > own
       return </span> <span class="pl-smi">data</span > . < span class = "pl-en" > createElem < /span>(nodeName);</td >
         <
         /tr> <
-<<<<<<< HEAD
+
     tr >
       <
       td id = "L200"
@@ -4654,7 +4654,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > own
   td id = "L201"
 class = "blob-num js-line-number"
 data - line - number = "201" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC201"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   return </span> <span class="pl-en">createElement</span > ( nodeName, ownerDocument, data ); < /td> < /
@@ -4671,7 +4671,7 @@ tr >
   td id = "L202"
 class = "blob-num js-line-number"
 data - line - number = "202" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC202"
 class = "blob-code blob-code-inner js-file-line" >
 }; < /td> < /
@@ -4688,7 +4688,7 @@ tr >
   td id = "L203"
 class = "blob-num js-line-number"
 data - line - number = "203" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC203"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -4706,7 +4706,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L204"
 class = "blob-num js-line-number"
 data - line - number = "204" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC204"
 =======
   td id = "LC204"
@@ -4748,7 +4748,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > own
     data - line - number = "208" > < /td> <
     td id = "LC208"
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-en" > getElements < /span>().<span class="pl-c1">join</span > (). < span class = "pl-c1" > replace < /span>(<span class="pl-sr"><span class="pl-pds">/ < /span><span class="pl-c1">[<span class="pl-c1">\w</span><span class="pl-c1">\-:</span>]</span > < span class = "pl-k" > + < /span><span class="pl-pds">/ < /span>g</span > , < span class = "pl-k" > function < /span>(<span class="pl-smi">nodeName</span > ) {
-<<<<<<< HEAD
+
     <
     /td> < /
     tr > <
@@ -4762,7 +4762,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > own
       td id = "L209"
     class = "blob-num js-line-number"
     data - line - number = "209" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC209"
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > data < /span>.<span class="pl-en">createElem</span > ( nodeName ); < /td> < /
     tr > <
@@ -4777,7 +4777,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > own
       td id = "L210"
     class = "blob-num js-line-number"
     data - line - number = "210" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC210"
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > data < /span>.<span class="pl-smi">frag</span > . < span class = "pl-c1" > createElement < /span>(nodeName);</td >
       <
@@ -4794,7 +4794,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > own
       td id = "L211"
     class = "blob-num js-line-number"
     data - line - number = "211" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC211"
 =======
       td id = "LC211"
@@ -4811,7 +4811,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > own
       } ) < span class = "pl-k" > + < /span></td >
   <
   /tr> <
-<<<<<<< HEAD
+
 tr >
 =======
   tr >
@@ -4820,7 +4820,7 @@ tr >
   td id = "L213"
 class = "blob-num js-line-number"
 data - line - number = "213" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC213"
 =======
   td id = "LC213"
@@ -4831,7 +4831,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-s" > < spa
         <td id= "L214"
 class = "blob-num js-line-number"
 data - line - number = "214" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC214"
 class = "blob-code blob-code-inner js-file-line" > )( html5, < span class = "pl-smi" > data < /span>.<span class="pl-smi">frag</span > ); < /td> < /
 tr > <
@@ -4846,7 +4846,7 @@ tr >
   td id = "L215"
 class = "blob-num js-line-number"
 data - line - number = "215" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC215"
 class = "blob-code blob-code-inner js-file-line" >
 } < /td> < /
@@ -4863,7 +4863,7 @@ tr >
   td id = "L216"
 class = "blob-num js-line-number"
 data - line - number = "216" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC216"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -4881,7 +4881,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L217"
 class = "blob-num js-line-number"
 data - line - number = "217" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC217"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /*--------------------------------------------------------------------------*/ < /span></td >
   <
@@ -4898,7 +4898,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /*---
   td id = "L218"
 class = "blob-num js-line-number"
 data - line - number = "218" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC218"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -4916,7 +4916,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L219"
 class = "blob-num js-line-number"
 data - line - number = "219" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC219"
 =======
   td id = "LC219"
@@ -4943,7 +4943,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" >
         <tr>
           <td id="L224" class="blob-num js-line-number" data-line-number="224"></td>
           <td id="LC224" class="blob-code blob-code-inner js-file-line"><span class="pl-c">   */
-<<<<<<< HEAD
+
   <
   /span></td >
   <
@@ -4959,7 +4959,7 @@ tr >
   td id = "L225"
 class = "blob-num js-line-number"
 data - line - number = "225" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC225"
 =======
   td id = "LC225"
@@ -4975,7 +4975,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
     td id = "LC226"
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     if </span> (<span class="pl-k">!</span > ownerDocument ) {
-<<<<<<< HEAD
+
     <
     /td> < /
     tr > <
@@ -4989,7 +4989,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L227"
     class = "blob-num js-line-number"
     data - line - number = "227" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC227"
     class = "blob-code blob-code-inner js-file-line" > ownerDocument < span class = "pl-k" >= < /span> <span class="pl-c1">document</span > ; < /td> < /
     tr > <
@@ -5004,7 +5004,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
       td id = "L228"
     class = "blob-num js-line-number"
     data - line - number = "228" > < /td> <
-<<<<<<< HEAD
+
     td id = "LC228"
     class = "blob-code blob-code-inner js-file-line" >
   } < /td> < /
@@ -5020,7 +5020,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" > funct
   td id = "L229"
 class = "blob-num js-line-number"
 data - line - number = "229" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC229"
 =======
   td id = "LC229"
@@ -5029,7 +5029,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   var < /span> data <span class="pl-k">=</span > < span class = "pl-en" > getExpandoData < /span>(ownerDocument);</td >
   <
   /tr> <
-<<<<<<< HEAD
+
 tr >
 =======
   tr >
@@ -5038,7 +5038,7 @@ tr >
   td id = "L230"
 class = "blob-num js-line-number"
 data - line - number = "230" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC230"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -5056,7 +5056,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L231"
 class = "blob-num js-line-number"
 data - line - number = "231" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC231"
 =======
   td id = "LC231"
@@ -5065,7 +5065,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   if </span> (<span class="pl-smi">html5</span > . < span class = "pl-smi" > shivCSS < /span> <span class="pl-k">&amp;&amp;</span > < span class = "pl-k" > ! < /span>supportsHtml5Styles <span class="pl-k">&amp;&amp;</span > < span class = "pl-k" > ! < /span><span class="pl-smi">data</span > . < span class = "pl-smi" > hasCSS < /span>) {</td >
   <
   /tr> <
-<<<<<<< HEAD
+
 tr >
 =======
   tr >
@@ -5074,7 +5074,7 @@ tr >
   td id = "L232"
 class = "blob-num js-line-number"
 data - line - number = "232" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC232"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > data < /span>.<span class="pl-smi">hasCSS</span > < span class = "pl-k" >= < /span> <span class="pl-k">!!</span > < span class = "pl-en" > addStyleSheet < /span>(ownerDocument,</td >
   <
@@ -5091,7 +5091,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-smi" > dat
   td id = "L233"
 class = "blob-num js-line-number"
 data - line - number = "233" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC233"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < span class = "pl-c" > //</span> corrects block display not defined in IE6/7/8/9</span></td>
   <
@@ -5108,7 +5108,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < spa
   td id = "L234"
 class = "blob-num js-line-number"
 data - line - number = "234" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC234"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-s" > < span class = "pl-pds" > & #39;</span>article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}<span class= "pl-pds" > & #39;</span></span> <span class= "pl-k" > + < /span></td >
   <
@@ -5125,7 +5125,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-s" > < spa
   td id = "L235"
 class = "blob-num js-line-number"
 data - line - number = "235" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC235"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < span class = "pl-c" > //</span> adds styling not present in IE6/7/8/9</span></td>
   <
@@ -5142,7 +5142,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < spa
   td id = "L236"
 class = "blob-num js-line-number"
 data - line - number = "236" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC236"
 =======
   td id = "LC236"
@@ -5151,7 +5151,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-s" > < spa
 color: #000}<span class= "pl-pds" > & #39;</span></span> <span class= "pl-k" > + < /span></td >
   <
   /tr> <
-<<<<<<< HEAD
+
 tr >
 =======
   tr >
@@ -5160,7 +5160,7 @@ tr >
   td id = "L237"
 class = "blob-num js-line-number"
 data - line - number = "237" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC237"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < span class = "pl-c" > //</span> hides non-rendered elements</span></td>
   <
@@ -5177,7 +5177,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < spa
   td id = "L238"
 class = "blob-num js-line-number"
 data - line - number = "238" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC238"
 =======
   td id = "LC238"
@@ -5188,7 +5188,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-s" > < spa
         <td id= "L239"
 class = "blob-num js-line-number"
 data - line - number = "239" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC239"
 class = "blob-code blob-code-inner js-file-line" > ); < /td> < /
 tr > <
@@ -5203,7 +5203,7 @@ tr >
   td id = "L240"
 class = "blob-num js-line-number"
 data - line - number = "240" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC240"
 class = "blob-code blob-code-inner js-file-line" >
 } < /td> < /
@@ -5220,7 +5220,7 @@ tr >
   td id = "L241"
 class = "blob-num js-line-number"
 data - line - number = "241" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC241"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   if </span> (<span class="pl-k">!</span > supportsUnknownElements ) {
@@ -5240,7 +5240,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     td id = "L242"
   class = "blob-num js-line-number"
   data - line - number = "242" > < /td> <
-<<<<<<< HEAD
+
   td id = "LC242"
   class = "blob-code blob-code-inner js-file-line" > < span class = "pl-en" > shivMethods < /span>(ownerDocument, data);</td >
     <
@@ -5257,7 +5257,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     td id = "L243"
   class = "blob-num js-line-number"
   data - line - number = "243" > < /td> <
-<<<<<<< HEAD
+
   td id = "LC243"
   class = "blob-code blob-code-inner js-file-line" >
 } < /td> < /
@@ -5274,7 +5274,7 @@ tr >
   td id = "L244"
 class = "blob-num js-line-number"
 data - line - number = "244" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC244"
 =======
   td id = "LC244"
@@ -5283,7 +5283,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   return </span> ownerDocument;</td >
     <
     /tr> <
-<<<<<<< HEAD
+
 tr >
   <
   td id = "L245"
@@ -5310,7 +5310,7 @@ tr >
   td id = "L246"
 class = "blob-num js-line-number"
 data - line - number = "246" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC246"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -5328,7 +5328,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L247"
 class = "blob-num js-line-number"
 data - line - number = "247" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC247"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /*--------------------------------------------------------------------------*/ < /span></td >
   <
@@ -5345,7 +5345,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /*---
   td id = "L248"
 class = "blob-num js-line-number"
 data - line - number = "248" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC248"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -5363,7 +5363,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L249"
 class = "blob-num js-line-number"
 data - line - number = "249" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC249"
 =======
   td id = "LC249"
@@ -5402,7 +5402,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" >
         <tr>
           <td id="L257" class="blob-num js-line-number" data-line-number="257"></td>
           <td id="LC257" class="blob-code blob-code-inner js-file-line"><span class="pl-c">   */
-<<<<<<< HEAD
+
   <
   /span></td >
   <
@@ -5418,7 +5418,7 @@ tr >
   td id = "L258"
 class = "blob-num js-line-number"
 data - line - number = "258" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC258"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   var < /span> html5 <span class="pl-k">=</span > {
@@ -5440,7 +5440,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     td id = "LC259"
     class = "blob-code blob-code-inner js-file-line" >
     <
-<<<<<<< HEAD
+
     /td> < /
     tr > <
 =======
@@ -5471,7 +5471,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
           <tr>
             <td id="L264" class="blob-num js-line-number" data-line-number="264"></td>
             <td id="LC264" class="blob-code blob-code-inner js-file-line"><span class="pl-c">     */
-<<<<<<< HEAD
+
     <
     /span></td >
 =======
@@ -5494,7 +5494,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     td id = "LC266"
     class = "blob-code blob-code-inner js-file-line" >
     <
-<<<<<<< HEAD
+
     /td> < /
     tr > <
 =======
@@ -5517,7 +5517,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
           <tr>
             <td id="L269" class="blob-num js-line-number" data-line-number="269"></td>
             <td id="LC269" class="blob-code blob-code-inner js-file-line"><span class="pl-c">     */
-<<<<<<< HEAD
+
     <
     /span></td >
 =======
@@ -5534,7 +5534,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-s" > < span class = "pl-pds" > & #39;</span>version<span class= "pl-pds" > & #39;</span></span><span class= "pl-k" >: < /span> version,</td >
       <
       /tr> <
-<<<<<<< HEAD
+
     tr >
     <
     td id = "L271"
@@ -5548,7 +5548,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     td id = "LC271"
     class = "blob-code blob-code-inner js-file-line" >
     <
-<<<<<<< HEAD
+
     /td> < /
     tr > <
 =======
@@ -5579,7 +5579,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
           <tr>
             <td id="L276" class="blob-num js-line-number" data-line-number="276"></td>
             <td id="LC276" class="blob-code blob-code-inner js-file-line"><span class="pl-c">     */
-<<<<<<< HEAD
+
     <
     /span></td >
 =======
@@ -5596,7 +5596,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-s" > < span class = "pl-pds" > & #39;</span>shivCSS<span class= "pl-pds" > & #39;</span></span><span class= "pl-k" >: < /span> (<span class="pl-smi">options</span > . < span class = "pl-smi" > shivCSS < /span> <span class="pl-k">!==</span > < span class = "pl-c1" > false < /span>),</td >
       <
       /tr> <
-<<<<<<< HEAD
+
     tr >
     <
     td id = "L278"
@@ -5610,7 +5610,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     td id = "LC278"
     class = "blob-code blob-code-inner js-file-line" >
     <
-<<<<<<< HEAD
+
     /td> < /
     tr > <
 =======
@@ -5641,7 +5641,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
           <tr>
             <td id="L283" class="blob-num js-line-number" data-line-number="283"></td>
             <td id="LC283" class="blob-code blob-code-inner js-file-line"><span class="pl-c">     */
-<<<<<<< HEAD
+
     <
     /span></td >
 =======
@@ -5658,7 +5658,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-s" > < span class = "pl-pds" > & #39;</span>supportsUnknownElements<span class= "pl-pds" > & #39;</span></span><span class= "pl-k" >: < /span> supportsUnknownElements,</td >
       <
       /tr> <
-<<<<<<< HEAD
+
     tr >
     <
     td id = "L285"
@@ -5672,7 +5672,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     td id = "LC285"
     class = "blob-code blob-code-inner js-file-line" >
     <
-<<<<<<< HEAD
+
     /td> < /
     tr > <
 =======
@@ -5707,7 +5707,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
           <tr>
             <td id="L291" class="blob-num js-line-number" data-line-number="291"></td>
             <td id="LC291" class="blob-code blob-code-inner js-file-line"><span class="pl-c">     */
-<<<<<<< HEAD
+
     <
     /span></td >
 =======
@@ -5724,7 +5724,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-s" > < span class = "pl-pds" > & #39;</span>shivMethods<span class= "pl-pds" > & #39;</span></span><span class= "pl-k" >: < /span> (<span class="pl-smi">options</span > . < span class = "pl-smi" > shivMethods < /span> <span class="pl-k">!==</span > < span class = "pl-c1" > false < /span>),</td >
       <
       /tr> <
-<<<<<<< HEAD
+
     tr >
     <
     td id = "L293"
@@ -5738,7 +5738,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     td id = "LC293"
     class = "blob-code blob-code-inner js-file-line" >
     <
-<<<<<<< HEAD
+
     /td> < /
     tr > <
 =======
@@ -5769,7 +5769,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
           <tr>
             <td id="L298" class="blob-num js-line-number" data-line-number="298"></td>
             <td id="LC298" class="blob-code blob-code-inner js-file-line"><span class="pl-c">     */
-<<<<<<< HEAD
+
     <
     /span></td >
 =======
@@ -5793,7 +5793,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     td id = "LC300"
     class = "blob-code blob-code-inner js-file-line" >
     <
-<<<<<<< HEAD
+
     /td> < /
     tr > <
 =======
@@ -5818,7 +5818,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     class = "blob-code blob-code-inner js-file-line" > < span class = "pl-s" > < span class = "pl-pds" > & #39;</span>shivDocument<span class= "pl-pds" > & #39;</span></span><span class= "pl-k" >: < /span> shivDocument,</td >
       <
       /tr> <
-<<<<<<< HEAD
+
     tr >
     <
     td id = "L303"
@@ -5832,7 +5832,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     td id = "LC303"
     class = "blob-code blob-code-inner js-file-line" >
     <
-<<<<<<< HEAD
+
     /td> < /
     tr > <
 =======
@@ -5857,7 +5857,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     class = "blob-code blob-code-inner js-file-line" > createElement < span class = "pl-k" >: < /span> createElement,</td >
       <
       /tr> <
-<<<<<<< HEAD
+
     tr >
     <
     td id = "L306"
@@ -5871,7 +5871,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     td id = "LC306"
     class = "blob-code blob-code-inner js-file-line" >
     <
-<<<<<<< HEAD
+
     /td> < /
     tr > <
 =======
@@ -5896,7 +5896,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     class = "blob-code blob-code-inner js-file-line" > createDocumentFragment < span class = "pl-k" >: < /span> createDocumentFragment,</td >
       <
       /tr> <
-<<<<<<< HEAD
+
     tr >
     <
     td id = "L309"
@@ -5910,7 +5910,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     td id = "LC309"
     class = "blob-code blob-code-inner js-file-line" >
     <
-<<<<<<< HEAD
+
     /td> < /
     tr > <
 =======
@@ -5935,7 +5935,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     class = "blob-code blob-code-inner js-file-line" > addElements < span class = "pl-k" >: < /span> addElements</td >
       <
       /tr> <
-<<<<<<< HEAD
+
     tr >
     <
     td id = "L312"
@@ -5948,7 +5948,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
     data - line - number = "312" > < /td> <
     td id = "LC312"
     class = "blob-code blob-code-inner js-file-line" >
-<<<<<<< HEAD
+
   }; < /td> < /
 tr > <
   tr >
@@ -5961,7 +5961,7 @@ tr >
   td id = "L313"
 class = "blob-num js-line-number"
 data - line - number = "313" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC313"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -5979,7 +5979,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L314"
 class = "blob-num js-line-number"
 data - line - number = "314" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC314"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /*--------------------------------------------------------------------------*/ < /span></td >
   <
@@ -5996,7 +5996,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > /*---
   td id = "L315"
 class = "blob-num js-line-number"
 data - line - number = "315" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC315"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -6014,7 +6014,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L316"
 class = "blob-num js-line-number"
 data - line - number = "316" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC316"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < span class = "pl-c" > //</span> expose html5</span></td>
   <
@@ -6031,7 +6031,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < spa
   td id = "L317"
 class = "blob-num js-line-number"
 data - line - number = "317" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC317"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c1" > window < /span>.<span class="pl-smi">html5</span > < span class = "pl-k" >= < /span> html5;</td >
   <
@@ -6048,7 +6048,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c1" > wind
   td id = "L318"
 class = "blob-num js-line-number"
 data - line - number = "318" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC318"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -6066,7 +6066,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L319"
 class = "blob-num js-line-number"
 data - line - number = "319" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC319"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < span class = "pl-c" > //</span> shiv the document</span></td>
   <
@@ -6083,7 +6083,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c" > < spa
   td id = "L320"
 class = "blob-num js-line-number"
 data - line - number = "320" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC320"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-en" > shivDocument < /span>(<span class="pl-c1">document</span > ); < /td> < /
 tr > <
@@ -6098,7 +6098,7 @@ tr >
   td id = "L321"
 class = "blob-num js-line-number"
 data - line - number = "321" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC321"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -6116,7 +6116,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L322"
 class = "blob-num js-line-number"
 data - line - number = "322" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC322"
 =======
   td id = "LC322"
@@ -6125,7 +6125,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-k" >
   if </span>(<span class="pl-k">typeof</span > < span class = "pl-c1" > module < /span> <span class="pl-k">==</span > < span class = "pl-s" > < span class = "pl-pds" > & #39;</span>object<span class= "pl-pds" > & #39;</span></span> <span class= "pl-k" > & amp; & amp; < /span> <span class="pl-c1">module</span > . < span class = "pl-smi" > exports < /span>){</td >
   <
   /tr> <
-<<<<<<< HEAD
+
 tr >
 =======
   tr >
@@ -6134,7 +6134,7 @@ tr >
   td id = "L323"
 class = "blob-num js-line-number"
 data - line - number = "323" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC323"
 class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c1" > module < /span>.<span class="pl-smi">exports</span > < span class = "pl-k" >= < /span> html5;</td >
   <
@@ -6151,7 +6151,7 @@ class = "blob-code blob-code-inner js-file-line" > < span class = "pl-c1" > modu
   td id = "L324"
 class = "blob-num js-line-number"
 data - line - number = "324" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC324"
 class = "blob-code blob-code-inner js-file-line" >
 } < /td> < /
@@ -6168,7 +6168,7 @@ tr >
   td id = "L325"
 class = "blob-num js-line-number"
 data - line - number = "325" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC325"
 class = "blob-code blob-code-inner js-file-line" >
   <
@@ -6186,7 +6186,7 @@ class = "blob-code blob-code-inner js-file-line" >
   td id = "L326"
 class = "blob-num js-line-number"
 data - line - number = "326" > < /td> <
-<<<<<<< HEAD
+
 td id = "LC326"
 class = "blob-code blob-code-inner js-file-line" >
 }( < span class = "pl-k" > typeof < /span> <span class="pl-c1">window</span > < span class = "pl-k" > !== < /span> <span class="pl-s"><span class="pl-pds">&quot;</span > undefined < span class = "pl-pds" > & quot; < /span></span > < span class = "pl-k" > ? < /span> <span class="pl-c1">window</span > < span class = "pl-k" > : < /span> <span class="pl-c1">this</span > , < span class = "pl-c1" > document < /span>));</td >
@@ -6225,7 +6225,7 @@ class = "blob-code blob-code-inner js-file-line" >
   autofocus >
   <
   button type = "submit"
-<<<<<<< HEAD
+
   class = "btn" > Go < /button> < /
   form > < /div >
 
@@ -6302,7 +6302,7 @@ class = "blob-code blob-code-inner js-file-line" >
   version = "1.1"
   viewBox = "0 0 16 16"
   width = "24" > < path fill - rule = "evenodd"
-<<<<<<< HEAD
+
   d = "M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z" / > < /svg> < /
   a > <
 =======
@@ -6333,7 +6333,7 @@ class = "blob-code blob-code-inner js-file-line" >
   href = "https://help.github.com"
   data - ga - click = "Footer, go to help, text:help" > Help < /a></li >
   <
-<<<<<<< HEAD
+
   /ul> < /
   div > <
 =======
@@ -6363,7 +6363,7 @@ class = "blob-code blob-code-inner js-file-line" >
   version = "1.1"
   viewBox = "0 0 12 16"
   width = "12" > < path fill - rule = "evenodd"
-<<<<<<< HEAD
+
   d = "M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z" / > < /svg> < /
   button >
   You can 't perform that action at this time. < /
@@ -6423,7 +6423,7 @@ class = "blob-code blob-code-inner js-file-line" >
   version = "1.1"
   viewBox = "0 0 12 16"
   width = "12" > < path fill - rule = "evenodd"
-<<<<<<< HEAD
+
   d = "M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z" / > < /svg> < /
   button > <
   /div> < /

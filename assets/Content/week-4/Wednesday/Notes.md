@@ -40,7 +40,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
 ```html
 <html>
   <head>
-<<<<<<< HEAD
+
     <script async defer src="script.js">
 =======
     <script src="script.js">
@@ -168,7 +168,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
 ```html
 <html>
   <head>
-<<<<<<< HEAD
+
     <script async defer src="script.js">
 =======
     <script src="script.js">
